@@ -1,0 +1,235 @@
+10-06 22:49:42.385 10015 10031 I TestRunner: started: initial_title(edu.ucsc.cse118.assignment2.BasicInstrumentedTest)
+10-06 22:49:42.398 10015 10031 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+10-06 22:49:42.440   701  2465 V GrammaticalInflectionUtils: AttributionSource: android.content.AttributionSource@858c1320 does not have READ_SYSTEM_GRAMMATICAL_GENDER permission.
+10-06 22:49:42.498  9612  9638 W DisconnectHandler: No disconnect change found in the transition, not handling request.
+10-06 22:49:42.504  1509  1509 D LauncherStateManager: StateManager.cancelAnimation: animation ongoing: false, partial trace:
+10-06 22:49:42.504  1509  1509 D LauncherStateManager: 	at com.android.launcher3.statemanager.StateManager.setCurrentAnimation(go/retraceme 9bf9d747b28c192bd799fb0161a08498ac2b938f666e7966c0095b4da2c9b843:59)
+10-06 22:49:42.504  1509  1509 D LauncherStateManager: 	at com.android.launcher3.QuickstepTransitionManager.createWallpaperOpenAnimations(go/retraceme 9bf9d747b28c192bd799fb0161a08498ac2b938f666e7966c0095b4da2c9b843:712)
+10-06 22:49:42.504  1509  1509 D LauncherStateManager: 	at com.android.launcher3.QuickstepTransitionManager$WallpaperOpenLauncherAnimationRunner.onAnimationStart(go/retraceme 9bf9d747b28c192bd799fb0161a08498ac2b938f666e7966c0095b4da2c9b843:135)
+10-06 22:49:42.504  1509  1509 D LauncherStateManager: StateManager.createAtomicAnimation: fromState: Normal, toState: Normal, partial trace:
+10-06 22:49:42.504  1509  1509 D LauncherStateManager: 	at com.android.quickstep.util.WorkspaceRevealAnim.prepareToAnimate(go/retraceme 9bf9d747b28c192bd799fb0161a08498ac2b938f666e7966c0095b4da2c9b843:19)
+10-06 22:49:42.504  1509  1509 D LauncherStateManager: 	at com.android.quickstep.util.WorkspaceRevealAnim.<init>(go/retraceme 9bf9d747b28c192bd799fb0161a08498ac2b938f666e7966c0095b4da2c9b843:10)
+10-06 22:49:42.504  1509  1509 D LauncherStateManager: 	at com.android.launcher3.QuickstepTransitionManager.createWallpaperOpenAnimations(go/retraceme 9bf9d747b28c192bd799fb0161a08498ac2b938f666e7966c0095b4da2c9b843:753)
+10-06 22:49:42.504  1509  1509 D AllAppsTransitionController: shouldProtectHeader: false skipScrim: true state: Normal stateManager.getState(): Normal
+10-06 22:49:42.505  1509  1509 D KeyboardInsetsHandler: removePendingImeController: pendingImeController=null
+10-06 22:49:42.505  1509  1509 D b/311077782: LauncherAnimationRunner.setAnimation
+10-06 22:49:42.507  1509  1509 D RecentTasksList: invalidateLoadedTasks - previous requestLoadId: -1
+10-06 22:49:42.508  1509  1509 D BaseActivity: Launcher flags updated: [state_started|state_resumed|state_deferred_resumed|state_window_focused|state_user_active] +[state_window_focused]
+10-06 22:49:42.521   562   591 W skia    : AGTM parsing failed flags.readFromStream(s) at 159
+10-06 22:49:42.521   562   591 W skia    : AGTM parsing failed flags.readFromStream(s) at 159
+10-06 22:49:42.521  6965  6965 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():2259 
+10-06 22:49:42.523  6965  6965 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():103 repeatCheckTimes = 0, locked = false
+10-06 22:49:42.523  1509  1509 D RecentsView: onTaskRemoved: 103, not handling task stack changes
+10-06 22:49:42.524  1509  1509 D RecentsView: onTaskRemoved: 103, not handling task stack changes
+10-06 22:49:42.525  1509  1509 D RecentsView: onTaskDisplayChanged: 105, new displayId = 0
+10-06 22:49:42.525  1509  1509 D BaseActivity: Launcher flags updated: [state_started|state_resumed|state_deferred_resumed|state_window_focused|state_user_active] -[]
+10-06 22:49:42.527   562   574 I libbinder.BpBinder: onLastStrongRef automatically unlinking death recipients for binder (0x78decf02b600) with descriptor: '(not cached)'
+10-06 22:49:42.534  6965  6965 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1446 onStartInput(EditorInfo{EditorInfo{packageName=com.google.android.apps.nexuslauncher, inputType=0, inputTypeString=NULL, enableLearning=false, autoCorrection=false, autoComplete=false, imeOptions=0, privateImeOptions=null, actionName=UNSPECIFIED, actionLabel=null, initialSelStart=-1, initialSelEnd=-1, initialCapsMode=0, label=null, fieldId=0, fieldName=null, extras=null, hintText=null, hintLocales=[]}}, false)
+10-06 22:49:42.534  6965  6965 W AndroidIME: LatinIMEBase.updateInputViewCoverNavigation():327 Null input view, cannot update padding!
+10-06 22:49:42.536   701   838 W InputChannel-JNI: Channel already disposed.
+10-06 22:49:42.537  6965  6965 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():103 repeatCheckTimes = 1, locked = false
+10-06 22:49:42.541  1509  1509 D BaseActivity: Launcher flags updated: [state_started|state_resumed|state_deferred_resumed|state_window_focused] -[state_user_active]
+10-06 22:49:42.543  1509  1509 D BaseActivity: Launcher flags updated: [state_started|state_window_focused] -[state_resumed|state_deferred_resumed]
+10-06 22:49:42.545  1509  1509 W SplitSelectStateCtor: Missing session instanceIds
+10-06 22:49:42.545  1509  1509 D StatsLog: LAUNCHER_SPLIT_SELECTION_EXIT_INTERRUPTED
+10-06 22:49:42.570  1509  1509 D RecentTasksList: invalidateLoadedTasks - previous requestLoadId: -1
+10-06 22:49:42.571  1509  1509 D RecentTasksList: invalidateLoadedTasks - previous requestLoadId: -1
+10-06 22:49:42.573  1509  1509 D RecentTasksList: invalidateLoadedTasks - previous requestLoadId: -1
+10-06 22:49:42.585   701  2477 W InputChannel-JNI: Channel already disposed.
+10-06 22:49:42.593 10015 10015 D LifecycleMonitor: Lifecycle status change: edu.ucsc.cse118.assignment2.MainActivity@3ed6ff4 in: PRE_ON_CREATE
+10-06 22:49:42.593 10015 10015 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+10-06 22:49:42.603  9612  9648 I Surface : Creating surface for consumer unnamed-9612-44 with slotExpansion=1 for 64 slots
+10-06 22:49:42.609  9612  9648 I Surface : Creating surface for consumer VRI[assignment2]#44(BLAST Consumer)44 with slotExpansion=1 for 64 slots
+10-06 22:49:42.648 10015 10015 D LifecycleMonitor: Lifecycle status change: edu.ucsc.cse118.assignment2.MainActivity@3ed6ff4 in: CREATED
+10-06 22:49:42.648 10015 10015 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=edu.ucsc.cse118.assignment2.MainActivity@3ed6ff4
+10-06 22:49:42.665 10015 10015 D LifecycleMonitor: Lifecycle status change: edu.ucsc.cse118.assignment2.MainActivity@3ed6ff4 in: STARTED
+10-06 22:49:42.665 10015 10015 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=edu.ucsc.cse118.assignment2.MainActivity@3ed6ff4
+10-06 22:49:42.669 10015 10015 D LifecycleMonitor: Lifecycle status change: edu.ucsc.cse118.assignment2.MainActivity@3ed6ff4 in: RESUMED
+10-06 22:49:42.669 10015 10015 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=edu.ucsc.cse118.assignment2.MainActivity@3ed6ff4
+10-06 22:49:42.678  1509  1561 D PreloadThumbnailUseCase: Preloading thumbnails for task ids: [[id=104 windowingMode=1 user=0 lastActiveTime=20947378] null, [id=105 windowingMode=1 user=0 lastActiveTime=20947779] null]
+10-06 22:49:42.688   701  2472 W InputChannel-JNI: Channel already disposed.
+10-06 22:49:42.693 10053 10053 D VRI[InstrumentationActivityInvoker$EmptyActivity]: visibilityChanged oldVisibility=true newVisibility=false
+10-06 22:49:42.700 10015 10015 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): android.app.Activity$$ExternalSyntheticLambda0@2f92ee4
+10-06 22:49:42.719 10015 10015 D VRI[MainActivity]: WindowInsets changed: 1080x2400 statusBars:[0,63,0,0] navigationBars:[0,0,0,63] mandatorySystemGestures:[0,63,0,84] 
+10-06 22:49:42.725  1509  1509 D RecentTasksList: invalidateLoadedTasks - previous requestLoadId: -1
+10-06 22:49:42.725  1509  1509 D BaseActivity: Launcher flags updated: [state_started] -[state_window_focused]
+10-06 22:49:42.737 10015 10015 I Surface : Creating surface for consumer unnamed-10015-20 with slotExpansion=1 for 64 slots
+10-06 22:49:42.738   562   591 W skia    : AGTM parsing failed flags.readFromStream(s) at 159
+10-06 22:49:42.738   562   591 W skia    : AGTM parsing failed flags.readFromStream(s) at 159
+10-06 22:49:42.738 10015 10015 I Surface : Creating surface for consumer VRI[MainActivity]#20(BLAST Consumer)20 with slotExpansion=1 for 64 slots
+10-06 22:49:42.782  1509  1509 D RecentTasksList: invalidateLoadedTasks - previous requestLoadId: -1
+10-06 22:49:42.800   701   723 I ActivityTaskManager: Displayed edu.ucsc.cse118.assignment2/.MainActivity for user 0: +357ms
+10-06 22:49:42.806 10053 10053 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): null
+10-06 22:49:42.815  1509  1515 W System  : A resource failed to call HardwareBuffer.close. 
+10-06 22:49:42.816  1509  1515 W System  : A resource failed to call release. 
+10-06 22:49:42.831 10053 10053 D ViewRootImpl: Skipping stats log for color mode
+10-06 22:49:42.873  1509  1509 D WorkspaceRevealAnim: onAnimationEnd: workspace alpha = 1.0
+10-06 22:49:42.944  1509  1509 D RecentsView: onTaskRemoved: 104, not handling task stack changes
+10-06 22:49:42.947   701   838 W InputChannel-JNI: Channel already disposed.
+10-06 22:49:42.948  1509  1509 D RecentsView: onTaskRemoved: 104, not handling task stack changes
+10-06 22:49:42.949  6965  6965 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():2259 
+10-06 22:49:42.949  1509  1509 D RecentTasksList: invalidateLoadedTasks - previous requestLoadId: -1
+10-06 22:49:42.951  6965  6965 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():103 repeatCheckTimes = 0, locked = false
+10-06 22:49:42.955  6965  6965 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1446 onStartInput(EditorInfo{EditorInfo{packageName=edu.ucsc.cse118.assignment2, inputType=0, inputTypeString=NULL, enableLearning=false, autoCorrection=false, autoComplete=false, imeOptions=0, privateImeOptions=null, actionName=UNSPECIFIED, actionLabel=null, initialSelStart=-1, initialSelEnd=-1, initialCapsMode=0, label=null, fieldId=0, fieldName=null, extras=null, hintText=null, hintLocales=[]}}, false)
+10-06 22:49:42.955  6965  6965 W AndroidIME: LatinIMEBase.updateInputViewCoverNavigation():327 Null input view, cannot update padding!
+10-06 22:49:42.957  6965  6965 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():103 repeatCheckTimes = 1, locked = false
+10-06 22:49:42.959   562   591 W skia    : AGTM parsing failed flags.readFromStream(s) at 159
+10-06 22:49:42.959   562   591 W skia    : AGTM parsing failed flags.readFromStream(s) at 159
+10-06 22:49:42.996  2533  2690 D SatelliteController: isInCarrierRoamingNbIotNtn: satellite is disabled
+10-06 22:49:42.996  2533  2690 D SatelliteController: getCarrierRoamingNtnConnectType: Checking connect type from PLMN config for subId: 1
+10-06 22:49:42.997  2533  2690 D TelephonyConfigUpdateInstallReceiver: getConfigParser: domain=satellite
+10-06 22:49:42.997  2533  2690 V SatelliteController: satelliteConfigParser is not ready
+10-06 22:49:42.997  2533  2690 D SatelliteController: isSatelliteAttachSupportedViaConfigupdater: return null (satelliteConfig is null)
+10-06 22:49:42.998  2533  2690 D SatelliteController: getSatellitePerPlmnConfiguration: invalid subId or not supported via carrier.
+10-06 22:49:42.998  2533  2690 D SatelliteController: getCarrierRoamingNtnConnectType: config: null
+10-06 22:49:42.998  2533  2690 D TelephonyConfigUpdateInstallReceiver: getConfigParser: domain=satellite
+10-06 22:49:42.999  2533  2690 V SatelliteController: satelliteConfigParser is not ready
+10-06 22:49:42.999  2533  2690 D SatelliteController: getCarrierRoamingNtnConnectTypeViaConfigUpdater: return null (satelliteConfig is null)
+10-06 22:49:43.000  2533  2690 D SatelliteController: getCarrierRoamingNtnConnectType: Falling back to global carrier config connect type: 0
+10-06 22:49:43.000  2533  2690 D TelephonyConfigUpdateInstallReceiver: getConfigParser: domain=satellite
+10-06 22:49:43.000  2533  2690 V SatelliteController: satelliteConfigParser is not ready
+10-06 22:49:43.000  2533  2690 D SatelliteController: isSatelliteAttachSupportedViaConfigupdater: return null (satelliteConfig is null)
+10-06 22:49:43.001  2533  2690 D SatelliteController: getCarrierRoamingNtnConnectType: Checking connect type from PLMN config for subId: 1
+10-06 22:49:43.001  2533  2690 D TelephonyConfigUpdateInstallReceiver: getConfigParser: domain=satellite
+10-06 22:49:43.001  2533  2690 V SatelliteController: satelliteConfigParser is not ready
+10-06 22:49:43.001  2533  2690 D SatelliteController: isSatelliteAttachSupportedViaConfigupdater: return null (satelliteConfig is null)
+10-06 22:49:43.001  2533  2690 D SatelliteController: getSatellitePerPlmnConfiguration: invalid subId or not supported via carrier.
+10-06 22:49:43.001  2533  2690 D SatelliteController: getCarrierRoamingNtnConnectType: config: null
+10-06 22:49:43.001  2533  2690 D TelephonyConfigUpdateInstallReceiver: getConfigParser: domain=satellite
+10-06 22:49:43.001  2533  2690 V SatelliteController: satelliteConfigParser is not ready
+10-06 22:49:43.001  2533  2690 D SatelliteController: getCarrierRoamingNtnConnectTypeViaConfigUpdater: return null (satelliteConfig is null)
+10-06 22:49:43.002  2533  2690 D SatelliteController: getCarrierRoamingNtnConnectType: Falling back to global carrier config connect type: 0
+10-06 22:49:43.002  2533  2690 D TelephonyConfigUpdateInstallReceiver: getConfigParser: domain=satellite
+10-06 22:49:43.002  2533  2690 V SatelliteController: satelliteConfigParser is not ready
+10-06 22:49:43.002  2533  2690 D SatelliteController: isSatelliteAttachSupportedViaConfigupdater: return null (satelliteConfig is null)
+10-06 22:49:43.036  1509  1509 W FrameTracker: Missed App frame:jankTypeLegacy: JANK_APPLICATION, jankTypeExperimental: JANK_APPLICATION, vsyncId: 260949, totalDuration: 117925460, CUJ=J<LAUNCHER_APP_CLOSE_TO_HOME_FALLBACK>
+10-06 22:49:43.040  1509  1509 W FrameTracker: Missed SF frame:jankTypeLegacy: JANK_COMPOSER, jankTypeExperimental: UNKNOWN: 3, vsyncId: 261023, totalDuration: 84754696, CUJ=J<LAUNCHER_APP_CLOSE_TO_HOME_FALLBACK>
+10-06 22:49:43.040  1509  1509 W FrameTracker: Missed App frame:jankTypeLegacy: UNKNOWN: 3, jankTypeExperimental: JANK_APPLICATION, vsyncId: 261045, totalDuration: 116270830, CUJ=J<LAUNCHER_APP_CLOSE_TO_HOME_FALLBACK>
+10-06 22:49:43.041  1509  1509 W FrameTracker: Missed SF frame:jankTypeLegacy: UNKNOWN: 3, jankTypeExperimental: JANK_APPLICATION, vsyncId: 261045, totalDuration: 116270830, CUJ=J<LAUNCHER_APP_CLOSE_TO_HOME_FALLBACK>
+10-06 22:49:43.041  1509  1509 W FrameTracker: Missed App frame:jankTypeLegacy: JANK_APPLICATION, jankTypeExperimental: JANK_APPLICATION, vsyncId: 261120, totalDuration: 75689300, CUJ=J<LAUNCHER_APP_CLOSE_TO_HOME_FALLBACK>
+10-06 22:49:43.041  1509  1509 W FrameTracker: Missed App frame:jankTypeLegacy: UNKNOWN: 3, jankTypeExperimental: UNKNOWN: 3, vsyncId: 261193, totalDuration: 118529202, CUJ=J<LAUNCHER_APP_CLOSE_TO_HOME_FALLBACK>
+10-06 22:49:43.041  1509  1509 W FrameTracker: Missed SF frame:jankTypeLegacy: UNKNOWN: 3, jankTypeExperimental: UNKNOWN: 3, vsyncId: 261193, totalDuration: 118529202, CUJ=J<LAUNCHER_APP_CLOSE_TO_HOME_FALLBACK>
+10-06 22:49:43.041  1509  1509 W FrameTracker: Missed App frame:jankTypeLegacy: UNKNOWN: 3, jankTypeExperimental: JANK_APPLICATION, vsyncId: 261246, totalDuration: 102578038, CUJ=J<LAUNCHER_APP_CLOSE_TO_HOME_FALLBACK>
+10-06 22:49:43.041  1509  1509 W FrameTracker: Missed SF frame:jankTypeLegacy: UNKNOWN: 3, jankTypeExperimental: JANK_APPLICATION, vsyncId: 261246, totalDuration: 102578038, CUJ=J<LAUNCHER_APP_CLOSE_TO_HOME_FALLBACK>
+10-06 22:49:43.041  1509  1509 W FrameTracker: Missed App frame:jankTypeLegacy: JANK_APPLICATION, jankTypeExperimental: JANK_APPLICATION, vsyncId: 261289, totalDuration: 117799572, CUJ=J<LAUNCHER_APP_CLOSE_TO_HOME_FALLBACK>
+10-06 22:49:43.053  1509  1509 D VRI[NexusLauncherActivity]: visibilityChanged oldVisibility=true newVisibility=false
+10-06 22:49:43.056  9612  9734 D WallpaperService: onVisibilityChanged(false): com.android.systemui.wallpapers.ImageWallpaper$CanvasEngine@b07662d
+10-06 22:49:43.069  1509  1509 D SmartspaceInteractor: notifySmartspaceEvent: SmartspaceTargetEvent{mSmartspaceTarget=null, mSmartspaceActionId='null', mEventType=7}
+10-06 22:49:43.098  1509  1509 D BaseActivity: Launcher flags updated: [] -[state_started]
+10-06 22:49:43.098  1509  1509 D BaseDepthController: setSurface:
+10-06 22:49:43.098  1509  1509 D BaseDepthController: 	mWaitingOnSurfaceValidity: false
+10-06 22:49:43.098  1509  1509 D BaseDepthController: 	mBaseSurface: null
+10-06 22:49:43.098  1509  1509 D BaseDepthController: mSurface is null and mCurrentBlur is: 0
+10-06 22:49:43.099  1509  1509 D LauncherStateManager: StateManager.goToState: fromState: Normal, toState: Normal, partial trace:
+10-06 22:49:43.099  1509  1509 D LauncherStateManager: 	at com.android.launcher3.statemanager.StateManager.moveToRestState(go/retraceme 9bf9d747b28c192bd799fb0161a08498ac2b938f666e7966c0095b4da2c9b843:26)
+10-06 22:49:43.099  1509  1509 D LauncherStateManager: 	at com.android.launcher3.statemanager.StateManager.moveToRestState(go/retraceme 9bf9d747b28c192bd799fb0161a08498ac2b938f666e7966c0095b4da2c9b843:35)
+10-06 22:49:43.099  1509  1509 D LauncherStateManager: 	at com.android.launcher3.statemanager.StatefulActivity.onStop(go/retraceme 9bf9d747b28c192bd799fb0161a08498ac2b938f666e7966c0095b4da2c9b843:31)
+10-06 22:49:43.100  1509  1509 D LauncherStateManager: StateManager.onRepeatStateSetAborted: state: Normal
+10-06 22:49:43.100  1509  1509 D KeyboardStateManager: hideKeyboard
+10-06 22:49:43.100  1509  1509 D KeyboardStateManager: isImeShown: false
+10-06 22:49:43.101  1509  1509 D StatsLog: LAUNCHER_ONSTOP
+10-06 22:49:43.103   562   591 W skia    : AGTM parsing failed flags.readFromStream(s) at 159
+10-06 22:49:43.103  1509  1509 D StatsLog: LAUNCHER_GOOGLE_SEARCH_RESTORE_LIST_SIZE_AFTER_ACTIVITY_RESTART
+10-06 22:49:43.103   562   591 W skia    : AGTM parsing failed flags.readFromStream(s) at 159
+10-06 22:49:43.169   701  1220 I Surface : Creating surface for consumer unnamed-701-49 with slotExpansion=1 for 64 slots
+10-06 22:49:43.169   701  1220 I Surface : Creating surface for consumer ImageReader-864x1920f1m1-701-48 with slotExpansion=1 for 64 slots
+10-06 22:49:43.170   701  1220 W ImageReader_JNI: Unable to acquire a buffer item, very likely client tried to acquire more than maxImages buffers
+10-06 22:49:43.177   701  1220 E ConsumerBase: [ImageReader-864x1920f1m1-701-48] abandonLocked: ConsumerBase is abandoned!
+10-06 22:49:43.202   562   591 W skia    : AGTM parsing failed flags.readFromStream(s) at 159
+10-06 22:49:43.202   562   591 W skia    : AGTM parsing failed flags.readFromStream(s) at 159
+10-06 22:49:43.303   562   591 W skia    : AGTM parsing failed flags.readFromStream(s) at 159
+10-06 22:49:43.316 10015 10015 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=(view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle)}' assertion on view (an instance of android.widget.TextView and view.getText() with or without transformation to match: is "CSE118 Assignment 2" or (view.getParent() is assignable from class <class com.google.android.material.textfield.TextInputLayout> and (view is an instance of android.view.ViewGroup and has descendant matching an instance of android.widget.TextView and view.getText() with or without transformation to match: is "CSE118 Assignment 2")))
+10-06 22:49:43.321   701  2465 V GrammaticalInflectionUtils: AttributionSource: android.content.AttributionSource@8740ebbf does not have READ_SYSTEM_GRAMMATICAL_GENDER permission.
+10-06 22:49:43.324  1509  1509 D RecentsView: onTaskDisplayChanged: 106, new displayId = 0
+10-06 22:49:43.327   562   672 I libbinder.BpBinder: onLastStrongRef automatically unlinking death recipients for binder (0x78decf02dde0) with descriptor: '(not cached)'
+10-06 22:49:43.332  1509  1509 D RecentTasksList: invalidateLoadedTasks - previous requestLoadId: -1
+10-06 22:49:43.334  1509  1509 D RecentTasksList: invalidateLoadedTasks - previous requestLoadId: -1
+10-06 22:49:43.337  9612  9638 W DisconnectHandler: No disconnect change found in the transition, not handling request.
+10-06 22:49:43.338 10015 10015 D LifecycleMonitor: Lifecycle status change: edu.ucsc.cse118.assignment2.MainActivity@3ed6ff4 in: PAUSED
+10-06 22:49:43.338 10015 10015 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=edu.ucsc.cse118.assignment2.MainActivity@3ed6ff4
+10-06 22:49:43.339   701  2094 W InputChannel-JNI: Channel already disposed.
+10-06 22:49:43.346 10053 10068 I GFXSTREAM: [eglDisplay.cpp(297)] Opening libGLESv1_CM_emulation.so
+10-06 22:49:43.346 10053 10068 I GFXSTREAM: [eglDisplay.cpp(297)] Opening libGLESv2_emulation.so
+10-06 22:49:43.349 10053 10068 W libc    : Access denied finding property "vendor.mesa.virtgpu.kumquat"
+10-06 22:49:43.357  9612  9648 I Surface : Creating surface for consumer unnamed-9612-45 with slotExpansion=1 for 64 slots
+10-06 22:49:43.358  9612  9648 I Surface : Creating surface for consumer VRI[test]#45(BLAST Consumer)45 with slotExpansion=1 for 64 slots
+10-06 22:49:43.360 10053 10068 W HWUI    : Failed to initialize 101010-2 format, error = EGL_SUCCESS
+10-06 22:49:43.379   701  2094 W InputChannel-JNI: Channel already disposed.
+10-06 22:49:43.386 10053 10053 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): android.app.Activity$$ExternalSyntheticLambda0@e2baae5
+10-06 22:49:43.386 10053 10053 D VRI[InstrumentationActivityInvoker$EmptyActivity]: WindowInsets changed: 1080x2400 statusBars:[0,63,0,0] navigationBars:[0,0,0,63] mandatorySystemGestures:[0,63,0,84] 
+10-06 22:49:43.388   562   591 W skia    : AGTM parsing failed flags.readFromStream(s) at 159
+10-06 22:49:43.404  1509  1509 D RecentTasksList: invalidateLoadedTasks - previous requestLoadId: -1
+10-06 22:49:43.406   562   591 W skia    : AGTM parsing failed flags.readFromStream(s) at 159
+10-06 22:49:43.414 10053 10053 I Surface : Creating surface for consumer unnamed-10053-20 with slotExpansion=1 for 64 slots
+10-06 22:49:43.415 10053 10053 I Surface : Creating surface for consumer VRI[InstrumentationActivityInvoker$EmptyActivity]#20(BLAST Consumer)20 with slotExpansion=1 for 64 slots
+10-06 22:49:43.449  1509  1509 D RecentTasksList: invalidateLoadedTasks - previous requestLoadId: -1
+10-06 22:49:43.452   509  9600 D android.hardware.audio@7.1-impl.ranchu: threadLoop: entering standby, frames: 2420800
+10-06 22:49:43.452   509  9600 D android.hardware.audio@7.1-impl.ranchu: ~TinyalsaSink: joining consumeThread
+10-06 22:49:43.452   509 10051 D android.hardware.audio@7.1-impl.ranchu: consumeThread: exiting
+10-06 22:49:43.453   509  9600 D android.hardware.audio@7.1-impl.ranchu: ~TinyalsaSink: stopping PCM stream
+10-06 22:49:43.455  1509  1561 D PreloadThumbnailUseCase: Preloading thumbnails for task ids: [[id=105 windowingMode=1 user=0 lastActiveTime=20948541] null, [id=106 windowingMode=1 user=0 lastActiveTime=20948558] null]
+10-06 22:49:43.496  9612  9638 W DisconnectHandler: No disconnect change found in the transition, not handling request.
+10-06 22:49:43.496  1509  1515 W System  : A resource failed to call release. 
+10-06 22:49:43.496  1509  1515 W System  : A resource failed to call release. 
+10-06 22:49:43.502   562   673 I libbinder.BpBinder: onLastStrongRef automatically unlinking death recipients for binder (0x78decf02cc00) with descriptor: '(not cached)'
+10-06 22:49:43.522  1509  1509 D RecentTasksList: invalidateLoadedTasks - previous requestLoadId: -1
+10-06 22:49:43.526  1509  1509 D ViewRootImpl: Skipping stats log for color mode
+10-06 22:49:43.526  1509  1509 D BaseActivity: Launcher flags updated: [state_started] +[state_started]
+10-06 22:49:43.527  1509  1509 D BaseActivity: Launcher flags updated: [state_started|state_resumed|state_user_active] +[state_resumed|state_user_active]
+10-06 22:49:43.528  1509  1509 D BaseActivity: Launcher flags updated: [state_started|state_resumed|state_user_active] +[]
+10-06 22:49:43.528  1509  1509 D BaseActivity: Launcher flags updated: [state_started|state_resumed|state_deferred_resumed|state_user_active] +[state_deferred_resumed]
+10-06 22:49:43.528  1509  1509 D StatsLog: LAUNCHER_ONRESUME
+10-06 22:49:43.535  1509  1564 D QuickstepModelDelegate: notifyAppTargetEvent action=1 launchLocation=workspace/0/[-1,-1]/[1,1]
+10-06 22:49:43.535  1844  2049 I AiAiEcho: Predicting[0]:  [CONTEXT sampling_count=5 ]
+10-06 22:49:43.535  1844  2049 I AiAiEcho: EchoTargets: 
+10-06 22:49:43.535  1844  2049 I AiAiEcho: Filtered by AiAi flag check: 
+10-06 22:49:43.535  1844  2049 I AiAiEcho: [CONTEXT ratelimit_period="10 SECONDS" ]
+10-06 22:49:43.535  1844  2049 I AiAiEcho: #remoteViewsTwiddler: feature disabled.
+10-06 22:49:43.536  1844  2049 I AiAiEcho: #postPredictionTargets: Sending updates to UISurface home with targets# 0 (types=[])
+10-06 22:49:43.543  1509  1509 D SmartspaceInteractor: notifySmartspaceEvent: SmartspaceTargetEvent{mSmartspaceTarget=null, mSmartspaceActionId='null', mEventType=6}
+10-06 22:49:43.553  1509  1509 I Surface : Creating surface for consumer unnamed-1509-165 with slotExpansion=1 for 64 slots
+10-06 22:49:43.554  1509  1509 I Surface : Creating surface for consumer VRI[NexusLauncherActivity]#55(BLAST Consumer)55 with slotExpansion=1 for 64 slots
+10-06 22:49:43.555  1509  1509 D BaseDepthController: setSurface:
+10-06 22:49:43.555  1509  1509 D BaseDepthController: 	mWaitingOnSurfaceValidity: false
+10-06 22:49:43.555  1509  1509 D BaseDepthController: 	mBaseSurface: Surface(name=VRI-com.google.android.apps.nexuslauncher/com.google.android.apps.nexuslauncher.NexusLauncherActivity#1867)/@0x7f50314
+10-06 22:49:43.555  1509  1509 V BaseDepthController: Applying blur: 0 to Surface(name=VRI-com.google.android.apps.nexuslauncher/com.google.android.apps.nexuslauncher.NexusLauncherActivity#1867)/@0x7f50314 applyImmediately: false
+10-06 22:49:43.555  1509  1509 D BaseDepthController: shouldBlurWorkspace: false targetState: Normal currentStableState: Normal mCurrentBlur: 0 mLauncher.getDepthBlurTargets(): [com.android.launcher3.Workspace{32a2704 V.ED..... .......D 0,0-1080,2400 #7f0a0486 app:id/workspace}, com.android.launcher3.Hotseat{6afe4a5 V.ED..... .......D 0,1905-1080,2400 #7f0a01f6 app:id/hotseat}]
+10-06 22:49:43.580  9612  9734 D WallpaperService: onVisibilityChanged(true): com.android.systemui.wallpapers.ImageWallpaper$CanvasEngine@b07662d
+10-06 22:49:43.590   562   591 W skia    : AGTM parsing failed flags.readFromStream(s) at 159
+10-06 22:49:43.590   562   591 W skia    : AGTM parsing failed flags.readFromStream(s) at 159
+10-06 22:49:43.594  1509  1509 D ShortcutAndWidgetContainer: appWidgetScale - [x,y]: [1.0,1.0]
+10-06 22:49:43.594  1509  1509 D NavigableAppWidgetHostView: updateScale - [fitScale,bounceScale]: [1.0,1.0]
+10-06 22:49:43.595  1509  1509 D SsBaseTemplateCard: Passed-in item info is null
+10-06 22:49:43.595  1509  1509 D SsBaseTemplateCard: Passed-in item info is null
+10-06 22:49:43.595  1509  1509 D SsBaseTemplateCard: Passed-in item info is null
+10-06 22:49:43.595  1509  1509 D SsBaseTemplateCard: Passed-in item info is null
+10-06 22:49:43.595  1509  1509 I SsBaseTemplateCard: Secondary card pane is null
+10-06 22:49:43.604 10015 10015 D VRI[MainActivity]: visibilityChanged oldVisibility=true newVisibility=false
+10-06 22:49:43.619   562   591 W skia    : AGTM parsing failed flags.readFromStream(s) at 159
+10-06 22:49:43.619   562   591 W skia    : AGTM parsing failed flags.readFromStream(s) at 159
+10-06 22:49:43.625  1509  1509 D LauncherStateManager: StateManager.cancelAnimation: animation ongoing: false, partial trace:
+10-06 22:49:43.625  1509  1509 D LauncherStateManager: 	at com.android.launcher3.statemanager.StateManager.setCurrentAnimation(go/retraceme 9bf9d747b28c192bd799fb0161a08498ac2b938f666e7966c0095b4da2c9b843:59)
+10-06 22:49:43.625  1509  1509 D LauncherStateManager: 	at com.android.launcher3.QuickstepTransitionManager.createWallpaperOpenAnimations(go/retraceme 9bf9d747b28c192bd799fb0161a08498ac2b938f666e7966c0095b4da2c9b843:712)
+10-06 22:49:43.625  1509  1509 D LauncherStateManager: 	at com.android.launcher3.QuickstepTransitionManager$WallpaperOpenLauncherAnimationRunner.onAnimationStart(go/retraceme 9bf9d747b28c192bd799fb0161a08498ac2b938f666e7966c0095b4da2c9b843:135)
+10-06 22:49:43.626  1509  1509 D LauncherStateManager: StateManager.createAtomicAnimation: fromState: Normal, toState: Normal, partial trace:
+10-06 22:49:43.626  1509  1509 D LauncherStateManager: 	at com.android.quickstep.util.WorkspaceRevealAnim.prepareToAnimate(go/retraceme 9bf9d747b28c192bd799fb0161a08498ac2b938f666e7966c0095b4da2c9b843:19)
+10-06 22:49:43.626  1509  1509 D LauncherStateManager: 	at com.android.quickstep.util.WorkspaceRevealAnim.<init>(go/retraceme 9bf9d747b28c192bd799fb0161a08498ac2b938f666e7966c0095b4da2c9b843:10)
+10-06 22:49:43.626  1509  1509 D LauncherStateManager: 	at com.android.launcher3.QuickstepTransitionManager.createWallpaperOpenAnimations(go/retraceme 9bf9d747b28c192bd799fb0161a08498ac2b938f666e7966c0095b4da2c9b843:753)
+10-06 22:49:43.626  1509  1509 D AllAppsTransitionController: shouldProtectHeader: false skipScrim: true state: Normal stateManager.getState(): Normal
+10-06 22:49:43.627  1509  1509 D KeyboardInsetsHandler: removePendingImeController: pendingImeController=null
+10-06 22:49:43.628  1509  1509 D b/311077782: LauncherAnimationRunner.setAnimation
+10-06 22:49:43.633  1509  1509 D RecentTasksList: invalidateLoadedTasks - previous requestLoadId: -1
+10-06 22:49:43.637  1509  1561 D PreloadThumbnailUseCase: Preloading thumbnails for task ids: [[id=105 windowingMode=1 user=0 lastActiveTime=20948541] null, [id=106 windowingMode=1 user=0 lastActiveTime=20948717] null]
+10-06 22:49:43.638 10015 10015 D LifecycleMonitor: Lifecycle status change: edu.ucsc.cse118.assignment2.MainActivity@3ed6ff4 in: STOPPED
+10-06 22:49:43.640 10015 10015 V ActivityScenario: Update currentActivityStage to STOPPED, currentActivity=edu.ucsc.cse118.assignment2.MainActivity@3ed6ff4
+10-06 22:49:43.642  1509  1509 D BaseActivity: Launcher flags updated: [state_started|state_resumed|state_deferred_resumed|state_window_focused|state_user_active] +[state_window_focused]
+10-06 22:49:43.655   701   838 W InputChannel-JNI: Channel already disposed.
+10-06 22:49:43.658 10015 10015 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): null
+10-06 22:49:43.664  6965  6965 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():2259 
+10-06 22:49:43.669  6965  6965 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():103 repeatCheckTimes = 0, locked = false
+10-06 22:49:43.679  6965  6965 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1446 onStartInput(EditorInfo{EditorInfo{packageName=com.google.android.apps.nexuslauncher, inputType=0, inputTypeString=NULL, enableLearning=false, autoCorrection=false, autoComplete=false, imeOptions=0, privateImeOptions=null, actionName=UNSPECIFIED, actionLabel=null, initialSelStart=-1, initialSelEnd=-1, initialCapsMode=0, label=null, fieldId=0, fieldName=null, extras=null, hintText=null, hintLocales=[]}}, false)
+10-06 22:49:43.679  6965  6965 W AndroidIME: LatinIMEBase.updateInputViewCoverNavigation():327 Null input view, cannot update padding!
+10-06 22:49:43.681  6965  6965 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():103 repeatCheckTimes = 1, locked = false
+10-06 22:49:43.708 10015 10015 D LifecycleMonitor: Lifecycle status change: edu.ucsc.cse118.assignment2.MainActivity@3ed6ff4 in: DESTROYED
+10-06 22:49:43.709 10015 10015 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+10-06 22:49:43.711 10015 10031 I TestRunner: finished: initial_title(edu.ucsc.cse118.assignment2.BasicInstrumentedTest)

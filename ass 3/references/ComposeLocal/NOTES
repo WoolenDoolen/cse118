@@ -1,0 +1,6 @@
+Composition of classes rather than XML Layouts
+Single Activity
+Navigation Scaffold
+GSON instead of serializeable
+Club passed as JSON
+No ViewModel (club is passed by JSON value)

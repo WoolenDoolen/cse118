@@ -1,0 +1,53 @@
+{
+  "context": {
+    "projectPath": "C:/Users/joust/OneDrive/Desktop/Code/cmpm 118/ass2/tmp/playground-3d/verify-project/Packages",
+    "unityVersion": "6000.6.3f1"
+  },
+  "inputs": [
+    "C:\\Users\\joust\\OneDrive\\Desktop\\Code\\cmpm 118\\ass2\\tmp\\playground-3d\\verify-project\\Packages\\manifest.json",
+    "C:\\Users\\joust\\OneDrive\\Desktop\\Code\\cmpm 118\\ass2\\tmp\\playground-3d\\verify-project\\Packages\\packages-lock.json",
+    "C:\\Program Files\\Unity\\Hub\\Editor\\6000.6.3f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\BuiltInPackagesCombined.sha1"
+  ],
+  "outputs": {
+    "com.unity.modules.audio@1.0.0": {
+      "name": "com.unity.modules.audio",
+      "displayName": "Audio",
+      "resolvedPath": "C:\\Users\\joust\\OneDrive\\Desktop\\Code\\cmpm 118\\ass2\\tmp\\playground-3d\\verify-project\\Library\\PackageCache\\com.unity.modules.audio",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.imgui@1.0.0": {
+      "name": "com.unity.modules.imgui",
+      "displayName": "IMGUI",
+      "resolvedPath": "C:\\Users\\joust\\OneDrive\\Desktop\\Code\\cmpm 118\\ass2\\tmp\\playground-3d\\verify-project\\Library\\PackageCache\\com.unity.modules.imgui",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.physics@1.0.0": {
+      "name": "com.unity.modules.physics",
+      "displayName": "Physics",
+      "resolvedPath": "C:\\Users\\joust\\OneDrive\\Desktop\\Code\\cmpm 118\\ass2\\tmp\\playground-3d\\verify-project\\Library\\PackageCache\\com.unity.modules.physics",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.screencapture@1.0.0": {
+      "name": "com.unity.modules.screencapture",
+      "displayName": "Screen Capture",
+      "resolvedPath": "C:\\Users\\joust\\OneDrive\\Desktop\\Code\\cmpm 118\\ass2\\tmp\\playground-3d\\verify-project\\Library\\PackageCache\\com.unity.modules.screencapture",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.imageconversion@1.0.0": {
+      "name": "com.unity.modules.imageconversion",
+      "displayName": "Image Conversion",
+      "resolvedPath": "C:\\Users\\joust\\OneDrive\\Desktop\\Code\\cmpm 118\\ass2\\tmp\\playground-3d\\verify-project\\Library\\PackageCache\\com.unity.modules.imageconversion",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    }
+  }
+}

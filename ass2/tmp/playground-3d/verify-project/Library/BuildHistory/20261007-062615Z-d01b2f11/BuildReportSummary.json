@@ -1,0 +1,33 @@
+{
+    "Version": 2,
+    "BuildContentOptions": [
+        "None"
+    ],
+    "BuildManifestHash": "00000000000000000000000000000000",
+    "BuildName": "Physics Playground",
+    "BuildOptions": [
+        "ForceOptimizeScriptCompilation",
+        "Il2CPP",
+        "CompressTextures",
+        "StripDebugSymbols",
+        "ShaderLivelinkSupport",
+        "Development"
+    ],
+    "BuildProfilePath": "",
+    "BuildResult": 1,
+    "BuildResultName": "Succeeded",
+    "BuildSessionGUID": "d01b2f11f8aa36f44aff899cb7341ae5",
+    "BuildStartedAt": "2026-10-07T06:26:15.5589574Z",
+    "BuildType": 1,
+    "BuildTypeName": "Player",
+    "ContentSourceBuildSessionGUID": "855e12584e82659418adccbc03553095",
+    "OutputPath": "C:/Users/joust/OneDrive/Desktop/Code/cmpm 118/ass2/tmp/playground-3d/verification-player/Playground.exe",
+    "Platform": 19,
+    "PlatformName": "StandaloneWindows64",
+    "Subtarget": 2,
+    "SubtargetName": "Player",
+    "TotalErrors": 0,
+    "TotalSizeBytes": 157398244,
+    "TotalTimeMs": 2251,
+    "TotalWarnings": 2
+}

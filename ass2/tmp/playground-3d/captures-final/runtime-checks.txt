@@ -1,0 +1,8 @@
+PASS: Fixed perspective camera is active
+PASS: Real-time ground shadows are enabled
+PASS: HUD is above the camera viewport
+PASS: Platform is solid from the floor to its original landing height
+PASS: Jump pad launches the player and lands them on the raised platform
+PASS: The high gold cube can still be collected during landing
+PASS: Purple pad still teleports across the arena
+PASS: Arena stays in frame after resizing to a narrow window

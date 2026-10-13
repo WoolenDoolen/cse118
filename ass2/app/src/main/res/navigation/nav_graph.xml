@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/loginFragment">
+
+    <fragment
+        android:id="@+id/loginFragment"
+        android:name="edu.ucsc.cse118.assignment2.LoginFragment"
+        android:label="@string/app_name">
+        <action
+            android:id="@+id/action_login_to_workspaces"
+            app:destination="@id/workspacesFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/workspacesFragment"
+        android:name="edu.ucsc.cse118.assignment2.WorkspacesFragment"
+        android:label="@string/select_workspace">
+        <action
+            android:id="@+id/action_workspaces_to_channels"
+            app:destination="@id/channelsFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/channelsFragment"
+        android:name="edu.ucsc.cse118.assignment2.ChannelsFragment">
+        <argument android:name="workspaceIndex" app:argType="integer" />
+        <action
+            android:id="@+id/action_channels_to_messages"
+            app:destination="@id/messagesFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/messagesFragment"
+        android:name="edu.ucsc.cse118.assignment2.MessagesFragment">
+        <argument android:name="workspaceIndex" app:argType="integer" />
+        <argument android:name="channelIndex" app:argType="integer" />
+        <action
+            android:id="@+id/action_messages_to_detail"
+            app:destination="@id/detailFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/detailFragment"
+        android:name="edu.ucsc.cse118.assignment2.DetailFragment">
+        <argument android:name="workspaceIndex" app:argType="integer" />
+        <argument android:name="channelIndex" app:argType="integer" />
+        <argument android:name="messageIndex" app:argType="integer" />
+    </fragment>
+</navigation>

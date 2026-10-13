@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "edu.ucsc.cse118.assignment2.app-debug-51:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "edu.ucsc.cse118.assignment2.app-main-53:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "edu.ucsc.cse118.assignment2.app-debug-51:/drawable_ic_back.xml.flat",
+        "source": "edu.ucsc.cse118.assignment2.app-main-53:/drawable/ic_back.xml"
+    },
+    {
+        "merged": "edu.ucsc.cse118.assignment2.app-debug-51:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "edu.ucsc.cse118.assignment2.app-main-53:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "edu.ucsc.cse118.assignment2.app-debug-51:/layout_fragment_list.xml.flat",
+        "source": "edu.ucsc.cse118.assignment2.app-main-53:/layout/fragment_list.xml"
+    },
+    {
+        "merged": "edu.ucsc.cse118.assignment2.app-debug-51:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "edu.ucsc.cse118.assignment2.app-main-53:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "edu.ucsc.cse118.assignment2.app-debug-51:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "edu.ucsc.cse118.assignment2.app-main-53:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "edu.ucsc.cse118.assignment2.app-debug-51:/layout_item_list.xml.flat",
+        "source": "edu.ucsc.cse118.assignment2.app-main-53:/layout/item_list.xml"
+    },
+    {
+        "merged": "edu.ucsc.cse118.assignment2.app-debug-51:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "edu.ucsc.cse118.assignment2.app-main-53:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "edu.ucsc.cse118.assignment2.app-debug-51:/xml_data_extraction_rules.xml.flat",
+        "source": "edu.ucsc.cse118.assignment2.app-main-53:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "edu.ucsc.cse118.assignment2.app-debug-51:/xml_backup_rules.xml.flat",
+        "source": "edu.ucsc.cse118.assignment2.app-main-53:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "edu.ucsc.cse118.assignment2.app-debug-51:/drawable_ic_launcher_background.xml.flat",
+        "source": "edu.ucsc.cse118.assignment2.app-main-53:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "edu.ucsc.cse118.assignment2.app-debug-51:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "edu.ucsc.cse118.assignment2.app-main-53:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "edu.ucsc.cse118.assignment2.app-debug-51:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "edu.ucsc.cse118.assignment2.app-main-53:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "edu.ucsc.cse118.assignment2.app-debug-51:/drawable_input_border.xml.flat",
+        "source": "edu.ucsc.cse118.assignment2.app-main-53:/drawable/input_border.xml"
+    },
+    {
+        "merged": "edu.ucsc.cse118.assignment2.app-debug-51:/drawable_ic_uc_santa_cruz_banana_slug.xml.flat",
+        "source": "edu.ucsc.cse118.assignment2.app-main-53:/drawable/ic_uc_santa_cruz_banana_slug.xml"
+    },
+    {
+        "merged": "edu.ucsc.cse118.assignment2.app-debug-51:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "edu.ucsc.cse118.assignment2.app-main-53:/mipmap-anydpi/ic_launcher.xml"
+    },
+    {
+        "merged": "edu.ucsc.cse118.assignment2.app-debug-51:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "edu.ucsc.cse118.assignment2.app-main-53:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "edu.ucsc.cse118.assignment2.app-debug-51:/layout_fragment_detail.xml.flat",
+        "source": "edu.ucsc.cse118.assignment2.app-main-53:/layout/fragment_detail.xml"
+    },
+    {
+        "merged": "edu.ucsc.cse118.assignment2.app-debug-51:/layout_item_message.xml.flat",
+        "source": "edu.ucsc.cse118.assignment2.app-main-53:/layout/item_message.xml"
+    },
+    {
+        "merged": "edu.ucsc.cse118.assignment2.app-debug-51:/layout_activity_main.xml.flat",
+        "source": "edu.ucsc.cse118.assignment2.app-main-53:/layout/activity_main.xml"
+    },
+    {
+        "merged": "edu.ucsc.cse118.assignment2.app-debug-51:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "edu.ucsc.cse118.assignment2.app-main-53:/mipmap-anydpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "edu.ucsc.cse118.assignment2.app-debug-51:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "edu.ucsc.cse118.assignment2.app-main-53:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "edu.ucsc.cse118.assignment2.app-debug-51:/raw_workspaces.json.flat",
+        "source": "edu.ucsc.cse118.assignment2.app-main-53:/raw/workspaces.json"
+    },
+    {
+        "merged": "edu.ucsc.cse118.assignment2.app-debug-51:/layout_fragment_login.xml.flat",
+        "source": "edu.ucsc.cse118.assignment2.app-main-53:/layout/fragment_login.xml"
+    },
+    {
+        "merged": "edu.ucsc.cse118.assignment2.app-debug-51:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "edu.ucsc.cse118.assignment2.app-main-53:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "edu.ucsc.cse118.assignment2.app-debug-51:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "edu.ucsc.cse118.assignment2.app-main-53:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    }
+]

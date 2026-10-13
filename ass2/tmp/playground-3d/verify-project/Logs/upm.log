@@ -1,0 +1,10 @@
+[2026-10-07T06:39:10.724Z][INFO] Command-line: 'C:\\Program Files\\Unity\\Hub\\Editor\\6000.6.3f1\\Editor\\Data\\Resources\\PackageManager\\Server\\UnityPackageManager.exe' server -s 21124 --ipc-path Unity-Upm-21124 -l 2 --log-file 'C:\\Users\\joust\\OneDrive\\Desktop\\Code\\cmpm 118\\ass2\\tmp\\playground-3d\\verify-project/Logs/upm.log'
+[2026-10-07T06:39:10.761Z][INFO] IPC server started (IPC path=Unity-Upm-21124).
+[2026-10-07T06:39:10.761Z][INFO] Hint: To connect to this UPM instance, launch Unity with the command-line parameter -upmIpcPath Upm-21124.
+[2026-10-07T06:39:12.387Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-07T06:39:12.463Z][INFO] project:list-packages --> 200 (76 ms)
+[2026-10-07T06:39:14.488Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-07T06:39:14.532Z][INFO] project:list-packages --> 200 (44 ms)
+[2026-10-07T06:39:19.837Z][INFO] Shutting down UnityPackageManager.exe: parent process [21124] is no longer running.

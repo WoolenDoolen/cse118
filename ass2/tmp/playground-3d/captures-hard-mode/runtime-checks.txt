@@ -1,0 +1,21 @@
+PASS: Perspective camera controls are active
+PASS: Real-time ground shadows are enabled
+PASS: HUD is above the camera viewport
+PASS: Platform is solid from the floor to its original landing height
+PASS: Horizontal camera controls orbit around the arena
+PASS: Vertical camera controls raise the viewing angle
+PASS: Arena and jump height stay in frame at different camera angles
+PASS: Camera elevation is limited before it flips upside down
+PASS: Camera reset restores the original position, rotation, and framing
+PASS: Pad labels face the camera after moving and resetting
+PASS: Hard mode starts disabled
+PASS: Hard mode automatically rotates every axis without arrow input
+PASS: Hard mode rotation speed is independent of frame rate
+PASS: Hard mode completes full flips and rolls while keeping the arena in frame
+PASS: Toggling hard mode off restores the normal view
+PASS: Automatic camera rotation stops when hard mode is off
+PASS: Camera reset exits hard mode and clears all rotation axes
+PASS: Jump pad launches the player and lands them on the raised platform
+PASS: The high gold cube can still be collected during landing
+PASS: Purple pad still teleports across the arena
+PASS: Arena stays in frame after resizing to a narrow window

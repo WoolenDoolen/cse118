@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CSE118 Assignment 2</string>
+    <string name="login">Login</string>
+    <string name="select_workspace">Workspaces</string>
+    <string name="select_channel">Channels</string>
+    <string name="select_message">Messages</string>
+    <string name="select_detail">Detail</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="slug_logo">UCSC Banana Slug logo</string>
+    <string name="back">Back</string>
+    <string name="channel_count">%1$d Channels</string>
+    <string name="message_count">%1$d Messages</string>
+</resources>

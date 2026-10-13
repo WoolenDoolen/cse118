@@ -1,0 +1,264 @@
+10-06 22:49:18.845 10015 10031 I TestRunner: started: visible_message_detail_date(edu.ucsc.cse118.assignment2.AdvancedInstrumentedTest)
+10-06 22:49:18.854  1509  1509 D BaseActivity: Launcher flags updated: [state_started|state_resumed|state_deferred_resumed|state_window_focused|state_user_active] +[state_window_focused]
+10-06 22:49:18.855 10015 10031 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+10-06 22:49:18.888 10015 10015 D ViewRootImpl: Skipping stats log for color mode
+10-06 22:49:18.924  6965  6965 W NotificationCenter: NotificationCenter$NotificationQueue.notifyPendingNotificationsOnExecutor():877 Heavy notify work detected on UI thread: [nim->nif] takes 24ms
+10-06 22:49:18.934   701   838 W InputChannel-JNI: Channel already disposed.
+10-06 22:49:18.935  6965  6965 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():2259 
+10-06 22:49:18.937  6965  6965 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():103 repeatCheckTimes = 0, locked = false
+10-06 22:49:18.948   562   591 W skia    : AGTM parsing failed flags.readFromStream(s) at 159
+10-06 22:49:18.949   562   591 W skia    : AGTM parsing failed flags.readFromStream(s) at 159
+10-06 22:49:18.949   562   591 W skia    : AGTM parsing failed flags.readFromStream(s) at 159
+10-06 22:49:18.949   562   591 W skia    : AGTM parsing failed flags.readFromStream(s) at 159
+10-06 22:49:18.956  6965  6965 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1446 onStartInput(EditorInfo{EditorInfo{packageName=com.google.android.apps.nexuslauncher, inputType=0, inputTypeString=NULL, enableLearning=false, autoCorrection=false, autoComplete=false, imeOptions=0, privateImeOptions=null, actionName=UNSPECIFIED, actionLabel=null, initialSelStart=-1, initialSelEnd=-1, initialCapsMode=0, label=null, fieldId=0, fieldName=null, extras=null, hintText=null, hintLocales=[]}}, false)
+10-06 22:49:18.956  6965  6965 W AndroidIME: LatinIMEBase.updateInputViewCoverNavigation():327 Null input view, cannot update padding!
+10-06 22:49:18.957  6965  6965 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():103 repeatCheckTimes = 1, locked = false
+10-06 22:49:18.978   701  1941 V GrammaticalInflectionUtils: AttributionSource: android.content.AttributionSource@858c1320 does not have READ_SYSTEM_GRAMMATICAL_GENDER permission.
+10-06 22:49:19.010  9612  9648 W FrameTracker: Missed App frame:jankTypeLegacy: UNKNOWN: 3, jankTypeExperimental: JANK_NONE, vsyncId: 236807, totalDuration: 18866402, CUJ=J<SPLASHSCREEN_EXIT_ANIM>
+10-06 22:49:19.011  9612  9648 W FrameTracker: Missed SF frame:jankTypeLegacy: UNKNOWN: 3, jankTypeExperimental: JANK_NONE, vsyncId: 236807, totalDuration: 18866402, CUJ=J<SPLASHSCREEN_EXIT_ANIM>
+10-06 22:49:19.011  9612  9648 W FrameTracker: Missed SF frame:jankTypeLegacy: JANK_COMPOSER, jankTypeExperimental: JANK_NONE, vsyncId: 236843, totalDuration: 17482936, CUJ=J<SPLASHSCREEN_EXIT_ANIM>
+10-06 22:49:19.011  9612  9648 W FrameTracker: Missed SF frame:jankTypeLegacy: JANK_COMPOSER, jankTypeExperimental: JANK_NONE, vsyncId: 236923, totalDuration: 16534538, CUJ=J<SPLASHSCREEN_EXIT_ANIM>
+10-06 22:49:19.011  9612  9648 W FrameTracker: Missed App frame:jankTypeLegacy: UNKNOWN: 3, jankTypeExperimental: UNKNOWN: 3, vsyncId: 236952, totalDuration: 28725672, CUJ=J<SPLASHSCREEN_EXIT_ANIM>
+10-06 22:49:19.011  9612  9648 W FrameTracker: Missed SF frame:jankTypeLegacy: UNKNOWN: 3, jankTypeExperimental: UNKNOWN: 3, vsyncId: 236952, totalDuration: 28725672, CUJ=J<SPLASHSCREEN_EXIT_ANIM>
+10-06 22:49:19.011  9612  9648 W FrameTracker: Missed SF frame:jankTypeLegacy: JANK_COMPOSER, jankTypeExperimental: JANK_NONE, vsyncId: 236974, totalDuration: 34506006, CUJ=J<SPLASHSCREEN_EXIT_ANIM>
+10-06 22:49:19.011  9612  9648 W FrameTracker: Missed SF frame:jankTypeLegacy: JANK_COMPOSER, jankTypeExperimental: UNKNOWN: 3, vsyncId: 237025, totalDuration: 40267474, CUJ=J<SPLASHSCREEN_EXIT_ANIM>
+10-06 22:49:19.011  9612  9648 W FrameTracker: Missed SF frame:jankTypeLegacy: JANK_COMPOSER, jankTypeExperimental: JANK_APPLICATION, vsyncId: 237047, totalDuration: 50400908, CUJ=J<SPLASHSCREEN_EXIT_ANIM>
+10-06 22:49:19.011  9612  9648 W FrameTracker: Missed App frame:jankTypeLegacy: UNKNOWN: 3, jankTypeExperimental: JANK_APPLICATION, vsyncId: 237076, totalDuration: 75995242, CUJ=J<SPLASHSCREEN_EXIT_ANIM>
+10-06 22:49:19.011  9612  9648 W FrameTracker: Missed SF frame:jankTypeLegacy: UNKNOWN: 3, jankTypeExperimental: JANK_APPLICATION, vsyncId: 237076, totalDuration: 75995242, CUJ=J<SPLASHSCREEN_EXIT_ANIM>
+10-06 22:49:19.011  9612  9648 W FrameTracker: Missed App frame:jankTypeLegacy: UNKNOWN: 3, jankTypeExperimental: UNKNOWN: 3, vsyncId: 237098, totalDuration: 91214976, CUJ=J<SPLASHSCREEN_EXIT_ANIM>
+10-06 22:49:19.011  9612  9648 W FrameTracker: Missed SF frame:jankTypeLegacy: UNKNOWN: 3, jankTypeExperimental: UNKNOWN: 3, vsyncId: 237098, totalDuration: 91214976, CUJ=J<SPLASHSCREEN_EXIT_ANIM>
+10-06 22:49:19.011  9612  9648 W FrameTracker: Missed App frame:jankTypeLegacy: UNKNOWN: 3, jankTypeExperimental: JANK_APPLICATION, vsyncId: 237134, totalDuration: 97894844, CUJ=J<SPLASHSCREEN_EXIT_ANIM>
+10-06 22:49:19.011  9612  9648 W FrameTracker: Missed SF frame:jankTypeLegacy: UNKNOWN: 3, jankTypeExperimental: JANK_APPLICATION, vsyncId: 237134, totalDuration: 97894844, CUJ=J<SPLASHSCREEN_EXIT_ANIM>
+10-06 22:49:19.011  9612  9648 W FrameTracker: Missed SF frame:jankTypeLegacy: JANK_COMPOSER, jankTypeExperimental: JANK_APPLICATION, vsyncId: 237149, totalDuration: 88788412, CUJ=J<SPLASHSCREEN_EXIT_ANIM>
+10-06 22:49:19.016  9612  9638 W DisconnectHandler: No disconnect change found in the transition, not handling request.
+10-06 22:49:19.027  1509  1509 D BaseActivity: Launcher flags updated: [state_started|state_resumed|state_deferred_resumed|state_window_focused|state_user_active] -[]
+10-06 22:49:19.027   562   673 I libbinder.BpBinder: onLastStrongRef automatically unlinking death recipients for binder (0x78decf0255c0) with descriptor: '(not cached)'
+10-06 22:49:19.035   701  2187 W InputChannel-JNI: Channel already disposed.
+10-06 22:49:19.036  1509  1509 D BaseActivity: Launcher flags updated: [state_started|state_resumed|state_deferred_resumed|state_window_focused] -[state_user_active]
+10-06 22:49:19.037  1509  1509 D BaseActivity: Launcher flags updated: [state_started|state_window_focused] -[state_resumed|state_deferred_resumed]
+10-06 22:49:19.038  1509  1509 W SplitSelectStateCtor: Missing session instanceIds
+10-06 22:49:19.038  1509  1509 D StatsLog: LAUNCHER_SPLIT_SELECTION_EXIT_INTERRUPTED
+10-06 22:49:19.049  9612  9648 I Surface : Creating surface for consumer unnamed-9612-22 with slotExpansion=1 for 64 slots
+10-06 22:49:19.053  9612  9648 I Surface : Creating surface for consumer VRI[assignment2]#22(BLAST Consumer)22 with slotExpansion=1 for 64 slots
+10-06 22:49:19.061  1509  1509 D RecentsView: onTaskRemoved: 81, not handling task stack changes
+10-06 22:49:19.061  1509  1509 D RecentsView: onTaskRemoved: 81, not handling task stack changes
+10-06 22:49:19.061  1509  1509 D RecentsView: onTaskDisplayChanged: 83, new displayId = 0
+10-06 22:49:19.061  1509  1509 D RecentTasksList: invalidateLoadedTasks - previous requestLoadId: -1
+10-06 22:49:19.062  1509  1509 D RecentTasksList: invalidateLoadedTasks - previous requestLoadId: -1
+10-06 22:49:19.071  1509  1509 D RecentTasksList: invalidateLoadedTasks - previous requestLoadId: -1
+10-06 22:49:19.071 10015 10015 D LifecycleMonitor: Lifecycle status change: edu.ucsc.cse118.assignment2.MainActivity@4a87ca5 in: PRE_ON_CREATE
+10-06 22:49:19.071 10015 10015 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+10-06 22:49:19.086  1509  1509 D BaseActivity: Launcher flags updated: [state_started] -[state_window_focused]
+10-06 22:49:19.096  1509  1509 D WorkspaceRevealAnim: onAnimationEnd: workspace alpha = 1.0
+10-06 22:49:19.109 10053 10053 D VRI[InstrumentationActivityInvoker$EmptyActivity]: visibilityChanged oldVisibility=true newVisibility=false
+10-06 22:49:19.115 10015 10015 D LifecycleMonitor: Lifecycle status change: edu.ucsc.cse118.assignment2.MainActivity@4a87ca5 in: CREATED
+10-06 22:49:19.116 10015 10015 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=edu.ucsc.cse118.assignment2.MainActivity@4a87ca5
+10-06 22:49:19.123  1509  1509 D RecentTasksList: invalidateLoadedTasks - previous requestLoadId: -1
+10-06 22:49:19.135 10015 10015 D LifecycleMonitor: Lifecycle status change: edu.ucsc.cse118.assignment2.MainActivity@4a87ca5 in: STARTED
+10-06 22:49:19.135 10015 10015 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=edu.ucsc.cse118.assignment2.MainActivity@4a87ca5
+10-06 22:49:19.137 10015 10015 D LifecycleMonitor: Lifecycle status change: edu.ucsc.cse118.assignment2.MainActivity@4a87ca5 in: RESUMED
+10-06 22:49:19.137 10015 10015 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=edu.ucsc.cse118.assignment2.MainActivity@4a87ca5
+10-06 22:49:19.140   562   591 W skia    : AGTM parsing failed flags.readFromStream(s) at 159
+10-06 22:49:19.140   562   591 W skia    : AGTM parsing failed flags.readFromStream(s) at 159
+10-06 22:49:19.152   701  1941 W InputChannel-JNI: Channel already disposed.
+10-06 22:49:19.160 10015 10015 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): android.app.Activity$$ExternalSyntheticLambda0@3cd3543
+10-06 22:49:19.163 10015 10015 D VRI[MainActivity]: WindowInsets changed: 1080x2400 statusBars:[0,63,0,0] navigationBars:[0,0,0,63] mandatorySystemGestures:[0,63,0,84] 
+10-06 22:49:19.167  1509  1509 D RecentTasksList: invalidateLoadedTasks - previous requestLoadId: -1
+10-06 22:49:19.172  1509  1561 D PreloadThumbnailUseCase: Preloading thumbnails for task ids: [[id=82 windowingMode=1 user=0 lastActiveTime=20923785] null, [id=83 windowingMode=1 user=0 lastActiveTime=20924266] null]
+10-06 22:49:19.179 10015 10015 I Surface : Creating surface for consumer unnamed-10015-9 with slotExpansion=1 for 64 slots
+10-06 22:49:19.181 10015 10015 I Surface : Creating surface for consumer VRI[MainActivity]#9(BLAST Consumer)9 with slotExpansion=1 for 64 slots
+10-06 22:49:19.229   701   723 I ActivityTaskManager: Displayed edu.ucsc.cse118.assignment2/.MainActivity for user 0: +258ms
+10-06 22:49:19.241 10053 10053 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): null
+10-06 22:49:19.247 10053 10053 D ViewRootImpl: Skipping stats log for color mode
+10-06 22:49:19.251   562   591 W skia    : AGTM parsing failed flags.readFromStream(s) at 159
+10-06 22:49:19.251   562   591 W skia    : AGTM parsing failed flags.readFromStream(s) at 159
+10-06 22:49:19.296   701   838 W InputChannel-JNI: Channel already disposed.
+10-06 22:49:19.305  6965  6965 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():2259 
+10-06 22:49:19.306  6965  6965 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():103 repeatCheckTimes = 0, locked = false
+10-06 22:49:19.311  6965  6965 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1446 onStartInput(EditorInfo{EditorInfo{packageName=edu.ucsc.cse118.assignment2, inputType=0, inputTypeString=NULL, enableLearning=false, autoCorrection=false, autoComplete=false, imeOptions=0, privateImeOptions=null, actionName=UNSPECIFIED, actionLabel=null, initialSelStart=-1, initialSelEnd=-1, initialCapsMode=0, label=null, fieldId=0, fieldName=null, extras=null, hintText=null, hintLocales=[]}}, false)
+10-06 22:49:19.313  6965  6965 W AndroidIME: LatinIMEBase.updateInputViewCoverNavigation():327 Null input view, cannot update padding!
+10-06 22:49:19.315  6965  6965 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():103 repeatCheckTimes = 1, locked = false
+10-06 22:49:19.322  1509  1515 W System  : A resource failed to call release. 
+10-06 22:49:19.322  1509  1515 W System  : A resource failed to call release. 
+10-06 22:49:19.323  1509  1515 W System  : A resource failed to call release. 
+10-06 22:49:19.329  1509  1509 D RecentsView: onTaskRemoved: 82, not handling task stack changes
+10-06 22:49:19.329  1509  1509 D RecentsView: onTaskRemoved: 82, not handling task stack changes
+10-06 22:49:19.330  1509  1509 D RecentTasksList: invalidateLoadedTasks - previous requestLoadId: -1
+10-06 22:49:19.420  9612  9620 I ndroid.systemui: CollectorTransition concurrent mark compact GC freed 6619KB AllocSpace bytes, 0(0B) LOS objects, 46% free, 27MB/51MB, paused 4.810ms,2.953ms total 480.974ms
+10-06 22:49:19.433   562   591 W skia    : AGTM parsing failed flags.readFromStream(s) at 159
+10-06 22:49:19.434   562   591 W skia    : AGTM parsing failed flags.readFromStream(s) at 159
+10-06 22:49:19.460  9612  9622 W System  : A resource failed to call release. 
+10-06 22:49:19.460  9612  9622 W System  : A resource failed to call release. 
+10-06 22:49:19.461  9612  9622 W System  : A resource failed to call release. 
+10-06 22:49:19.461  9612  9622 W System  : A resource failed to call release. 
+10-06 22:49:19.461  9612  9622 W System  : A resource failed to call release. 
+10-06 22:49:19.461  9612  9622 W System  : A resource failed to call release. 
+10-06 22:49:19.461  9612  9622 W System  : A resource failed to call release. 
+10-06 22:49:19.461  9612  9622 W System  : A resource failed to call release. 
+10-06 22:49:19.461  9612  9622 W System  : A resource failed to call release. 
+10-06 22:49:19.461  9612  9622 W System  : A resource failed to call release. 
+10-06 22:49:19.461  9612  9622 W System  : A resource failed to call release. 
+10-06 22:49:19.461  9612  9622 W System  : A resource failed to call release. 
+10-06 22:49:19.461  9612  9622 W System  : A resource failed to call release. 
+10-06 22:49:19.461  9612  9622 W System  : A resource failed to call release. 
+10-06 22:49:19.461  9612  9622 W System  : A resource failed to call release. 
+10-06 22:49:19.461  9612  9622 W System  : A resource failed to call release. 
+10-06 22:49:19.461  9612  9622 W System  : A resource failed to call release. 
+10-06 22:49:19.461  9612  9622 W System  : A resource failed to call release. 
+10-06 22:49:19.461  9612  9622 W System  : A resource failed to call release. 
+10-06 22:49:19.461  9612  9622 W System  : A resource failed to call release. 
+10-06 22:49:19.461  9612  9622 W System  : A resource failed to call release. 
+10-06 22:49:19.467  1509  1509 D VRI[NexusLauncherActivity]: visibilityChanged oldVisibility=true newVisibility=false
+10-06 22:49:19.467  9612  9734 D WallpaperService: onVisibilityChanged(false): com.android.systemui.wallpapers.ImageWallpaper$CanvasEngine@b07662d
+10-06 22:49:19.480  1509  1509 D SmartspaceInteractor: notifySmartspaceEvent: SmartspaceTargetEvent{mSmartspaceTarget=null, mSmartspaceActionId='null', mEventType=7}
+10-06 22:49:19.482   701  1220 I Surface : Creating surface for consumer unnamed-701-38 with slotExpansion=1 for 64 slots
+10-06 22:49:19.483   701  1220 I Surface : Creating surface for consumer ImageReader-864x1920f1m1-701-37 with slotExpansion=1 for 64 slots
+10-06 22:49:19.484   701  1220 W ImageReader_JNI: Unable to acquire a buffer item, very likely client tried to acquire more than maxImages buffers
+10-06 22:49:19.533  1509  1509 D BaseActivity: Launcher flags updated: [] -[state_started]
+10-06 22:49:19.533  1509  1509 D BaseDepthController: setSurface:
+10-06 22:49:19.533  1509  1509 D BaseDepthController: 	mWaitingOnSurfaceValidity: false
+10-06 22:49:19.533  1509  1509 D BaseDepthController: 	mBaseSurface: null
+10-06 22:49:19.535  1509  1509 D BaseDepthController: mSurface is null and mCurrentBlur is: 0
+10-06 22:49:19.536  1509  1509 D LauncherStateManager: StateManager.goToState: fromState: Normal, toState: Normal, partial trace:
+10-06 22:49:19.536  1509  1509 D LauncherStateManager: 	at com.android.launcher3.statemanager.StateManager.moveToRestState(go/retraceme 9bf9d747b28c192bd799fb0161a08498ac2b938f666e7966c0095b4da2c9b843:26)
+10-06 22:49:19.536  1509  1509 D LauncherStateManager: 	at com.android.launcher3.statemanager.StateManager.moveToRestState(go/retraceme 9bf9d747b28c192bd799fb0161a08498ac2b938f666e7966c0095b4da2c9b843:35)
+10-06 22:49:19.536  1509  1509 D LauncherStateManager: 	at com.android.launcher3.statemanager.StatefulActivity.onStop(go/retraceme 9bf9d747b28c192bd799fb0161a08498ac2b938f666e7966c0095b4da2c9b843:31)
+10-06 22:49:19.536  1509  1509 D LauncherStateManager: StateManager.onRepeatStateSetAborted: state: Normal
+10-06 22:49:19.536  1509  1509 D KeyboardStateManager: hideKeyboard
+10-06 22:49:19.536  1509  1509 D KeyboardStateManager: isImeShown: false
+10-06 22:49:19.536  1509  1509 D StatsLog: LAUNCHER_ONSTOP
+10-06 22:49:19.537  1509  1509 D StatsLog: LAUNCHER_GOOGLE_SEARCH_RESTORE_LIST_SIZE_AFTER_ACTIVITY_RESTART
+10-06 22:49:19.539   562   591 W skia    : AGTM parsing failed flags.readFromStream(s) at 159
+10-06 22:49:19.539   562   591 W skia    : AGTM parsing failed flags.readFromStream(s) at 159
+10-06 22:49:19.550   701  1220 E ConsumerBase: [ImageReader-864x1920f1m1-701-37] abandonLocked: ConsumerBase is abandoned!
+10-06 22:49:19.638   562   591 W skia    : AGTM parsing failed flags.readFromStream(s) at 159
+10-06 22:49:19.638   562   591 W skia    : AGTM parsing failed flags.readFromStream(s) at 159
+10-06 22:49:19.747   562   591 W skia    : AGTM parsing failed flags.readFromStream(s) at 159
+10-06 22:49:19.768 10015 10015 I ViewInteraction: Performing 'single click' action on view ((view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle) and (an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Login" or (view.getParent() is assignable from class <class com.google.android.material.textfield.TextInputLayout> and (view is an instance of android.view.ViewGroup and has descendant matching an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Login"))))
+10-06 22:49:19.830 10015 10015 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): androidx.navigationevent.OnBackInvokedInput$createOnBackAnimationCallback$1@6cd37c6
+10-06 22:49:19.836   701  1941 W AS.PlaybackActivityMon: No piid assigned for invalid/internal port id 15
+10-06 22:49:19.836   701  2477 W AS.PlaybackActivityMon: No piid assigned for invalid/internal port id 15
+10-06 22:49:19.848   562   591 W skia    : AGTM parsing failed flags.readFromStream(s) at 159
+10-06 22:49:19.950   562   591 W skia    : AGTM parsing failed flags.readFromStream(s) at 159
+10-06 22:49:20.052   562   591 W skia    : AGTM parsing failed flags.readFromStream(s) at 159
+10-06 22:49:20.077   554   596 I APM_AudioPolicyManager: getNewOutputDevices io 13 recent device override {AUDIO_DEVICE_OUT_SPEAKER, @:}
+10-06 22:49:20.095 10015 10015 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=(view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle)}' assertion on view (an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Workspaces" or (view.getParent() is assignable from class <class com.google.android.material.textfield.TextInputLayout> and (view is an instance of android.view.ViewGroup and has descendant matching an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Workspaces")))
+10-06 22:49:20.098 10015 10015 I ViewInteraction: Performing 'single click' action on view ((view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle) and (an instance of android.widget.TextView and view.getText() with or without transformation to match: is "CSE118 Fall 26" or (view.getParent() is assignable from class <class com.google.android.material.textfield.TextInputLayout> and (view is an instance of android.view.ViewGroup and has descendant matching an instance of android.widget.TextView and view.getText() with or without transformation to match: is "CSE118 Fall 26"))))
+10-06 22:49:20.168   701  2187 W AS.PlaybackActivityMon: No piid assigned for invalid/internal port id 15
+10-06 22:49:20.168   701   792 W AS.PlaybackActivityMon: No piid assigned for invalid/internal port id 15
+10-06 22:49:20.183   562   591 W skia    : AGTM parsing failed flags.readFromStream(s) at 159
+10-06 22:49:20.284   562   591 W skia    : AGTM parsing failed flags.readFromStream(s) at 159
+10-06 22:49:20.386   562   591 W skia    : AGTM parsing failed flags.readFromStream(s) at 159
+10-06 22:49:20.392   554   596 I APM_AudioPolicyManager: getNewOutputDevices io 13 recent device override {AUDIO_DEVICE_OUT_SPEAKER, @:}
+10-06 22:49:20.437 10015 10015 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=(view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle)}' assertion on view (an instance of android.widget.TextView and view.getText() with or without transformation to match: is "CSE118 Fall 26" or (view.getParent() is assignable from class <class com.google.android.material.textfield.TextInputLayout> and (view is an instance of android.view.ViewGroup and has descendant matching an instance of android.widget.TextView and view.getText() with or without transformation to match: is "CSE118 Fall 26")))
+10-06 22:49:20.440 10015 10015 I ViewInteraction: Performing 'single click' action on view ((view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle) and (an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Assignment 2" or (view.getParent() is assignable from class <class com.google.android.material.textfield.TextInputLayout> and (view is an instance of android.view.ViewGroup and has descendant matching an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Assignment 2"))))
+10-06 22:49:20.496   701  1226 W AS.PlaybackActivityMon: No piid assigned for invalid/internal port id 15
+10-06 22:49:20.496   701   792 W AS.PlaybackActivityMon: No piid assigned for invalid/internal port id 15
+10-06 22:49:20.513   562   591 W skia    : AGTM parsing failed flags.readFromStream(s) at 159
+10-06 22:49:20.616   562   591 W skia    : AGTM parsing failed flags.readFromStream(s) at 159
+10-06 22:49:20.717   562   591 W skia    : AGTM parsing failed flags.readFromStream(s) at 159
+10-06 22:49:20.732   554   596 I APM_AudioPolicyManager: getNewOutputDevices io 13 recent device override {AUDIO_DEVICE_OUT_SPEAKER, @:}
+10-06 22:49:20.784 10015 10015 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=(view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle)}' assertion on view (an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Assignment 2" or (view.getParent() is assignable from class <class com.google.android.material.textfield.TextInputLayout> and (view is an instance of android.view.ViewGroup and has descendant matching an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Assignment 2")))
+10-06 22:49:20.786 10015 10015 I ViewInteraction: Performing 'scroll RecyclerView to: holder with view: (view is an instance of android.view.ViewGroup and has descendant matching an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Max Rist")' action on view view.getId() is <2131231129/edu.ucsc.cse118.assignment2:id/recyclerview>
+10-06 22:49:20.816 10015 10015 I ViewInteraction: Performing 'single click' action on view ((view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle) and (an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Max Rist" or (view.getParent() is assignable from class <class com.google.android.material.textfield.TextInputLayout> and (view is an instance of android.view.ViewGroup and has descendant matching an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Max Rist"))))
+10-06 22:49:20.831   562   591 W skia    : AGTM parsing failed flags.readFromStream(s) at 159
+10-06 22:49:20.881   701   792 W AS.PlaybackActivityMon: No piid assigned for invalid/internal port id 15
+10-06 22:49:20.882   701  2475 W AS.PlaybackActivityMon: No piid assigned for invalid/internal port id 15
+10-06 22:49:20.932   562   591 W skia    : AGTM parsing failed flags.readFromStream(s) at 159
+10-06 22:49:21.119   554   596 I APM_AudioPolicyManager: getNewOutputDevices io 13 recent device override {AUDIO_DEVICE_OUT_SPEAKER, @:}
+10-06 22:49:21.133 10015 10015 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=(view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle)}' assertion on view (an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Max Rist" or (view.getParent() is assignable from class <class com.google.android.material.textfield.TextInputLayout> and (view is an instance of android.view.ViewGroup and has descendant matching an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Max Rist")))
+10-06 22:49:21.135 10015 10015 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=(view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle)}' assertion on view (an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Sep 11, 2022, 12:15:43 PM" or (view.getParent() is assignable from class <class com.google.android.material.textfield.TextInputLayout> and (view is an instance of android.view.ViewGroup and has descendant matching an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Sep 11, 2022, 12:15:43 PM")))
+10-06 22:49:21.140   701  1226 V GrammaticalInflectionUtils: AttributionSource: android.content.AttributionSource@8740ebbf does not have READ_SYSTEM_GRAMMATICAL_GENDER permission.
+10-06 22:49:21.143  1509  1509 D RecentsView: onTaskDisplayChanged: 84, new displayId = 0
+10-06 22:49:21.146   562   674 I libbinder.BpBinder: onLastStrongRef automatically unlinking death recipients for binder (0x78decf0333d0) with descriptor: '(not cached)'
+10-06 22:49:21.150  1509  1509 D RecentTasksList: invalidateLoadedTasks - previous requestLoadId: -1
+10-06 22:49:21.151  1509  1509 D RecentTasksList: invalidateLoadedTasks - previous requestLoadId: -1
+10-06 22:49:21.151  9612  9638 W DisconnectHandler: No disconnect change found in the transition, not handling request.
+10-06 22:49:21.153   701  1226 W InputChannel-JNI: Channel already disposed.
+10-06 22:49:21.155 10015 10015 D LifecycleMonitor: Lifecycle status change: edu.ucsc.cse118.assignment2.MainActivity@4a87ca5 in: PAUSED
+10-06 22:49:21.155 10015 10015 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=edu.ucsc.cse118.assignment2.MainActivity@4a87ca5
+10-06 22:49:21.161 10053 10068 I GFXSTREAM: [eglDisplay.cpp(297)] Opening libGLESv1_CM_emulation.so
+10-06 22:49:21.162 10053 10068 I GFXSTREAM: [eglDisplay.cpp(297)] Opening libGLESv2_emulation.so
+10-06 22:49:21.164 10053 10068 W libc    : Access denied finding property "vendor.mesa.virtgpu.kumquat"
+10-06 22:49:21.170  9612  9648 I Surface : Creating surface for consumer unnamed-9612-23 with slotExpansion=1 for 64 slots
+10-06 22:49:21.171  9612  9648 I Surface : Creating surface for consumer VRI[test]#23(BLAST Consumer)23 with slotExpansion=1 for 64 slots
+10-06 22:49:21.173 10053 10068 W HWUI    : Failed to initialize 101010-2 format, error = EGL_SUCCESS
+10-06 22:49:21.193   701   792 W InputChannel-JNI: Channel already disposed.
+10-06 22:49:21.201 10053 10053 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): android.app.Activity$$ExternalSyntheticLambda0@1f790d8
+10-06 22:49:21.202 10053 10053 D VRI[InstrumentationActivityInvoker$EmptyActivity]: WindowInsets changed: 1080x2400 statusBars:[0,63,0,0] navigationBars:[0,0,0,63] mandatorySystemGestures:[0,63,0,84] 
+10-06 22:49:21.205   562   591 W skia    : AGTM parsing failed flags.readFromStream(s) at 159
+10-06 22:49:21.223 10053 10053 I Surface : Creating surface for consumer unnamed-10053-9 with slotExpansion=1 for 64 slots
+10-06 22:49:21.223 10053 10053 I Surface : Creating surface for consumer VRI[InstrumentationActivityInvoker$EmptyActivity]#9(BLAST Consumer)9 with slotExpansion=1 for 64 slots
+10-06 22:49:21.224  1509  1509 D RecentTasksList: invalidateLoadedTasks - previous requestLoadId: -1
+10-06 22:49:21.300  1509  1509 D RecentTasksList: invalidateLoadedTasks - previous requestLoadId: -1
+10-06 22:49:21.308   701   723 I ActivityTaskManager: Displayed edu.ucsc.cse118.assignment2.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity for user 0: +163ms
+10-06 22:49:21.313   562   591 W skia    : AGTM parsing failed flags.readFromStream(s) at 159
+10-06 22:49:21.321  9612  9638 W DisconnectHandler: No disconnect change found in the transition, not handling request.
+10-06 22:49:21.321  1509  1561 D PreloadThumbnailUseCase: Preloading thumbnails for task ids: [[id=83 windowingMode=1 user=0 lastActiveTime=20926360] null, [id=84 windowingMode=1 user=0 lastActiveTime=20926527] null]
+10-06 22:49:21.323   562   672 I libbinder.BpBinder: onLastStrongRef automatically unlinking death recipients for binder (0x78decf039fc0) with descriptor: '(not cached)'
+10-06 22:49:21.332  1509  1509 D ViewRootImpl: Skipping stats log for color mode
+10-06 22:49:21.332  1509  1509 D BaseActivity: Launcher flags updated: [state_started] +[state_started]
+10-06 22:49:21.333  1509  1509 D BaseActivity: Launcher flags updated: [state_started|state_resumed|state_user_active] +[state_resumed|state_user_active]
+10-06 22:49:21.338  1509  1509 D BaseActivity: Launcher flags updated: [state_started|state_resumed|state_user_active] +[]
+10-06 22:49:21.338  1509  1509 D BaseActivity: Launcher flags updated: [state_started|state_resumed|state_deferred_resumed|state_user_active] +[state_deferred_resumed]
+10-06 22:49:21.338  1509  1509 D StatsLog: LAUNCHER_ONRESUME
+10-06 22:49:21.344  1509  1564 D QuickstepModelDelegate: notifyAppTargetEvent action=1 launchLocation=workspace/0/[-1,-1]/[1,1]
+10-06 22:49:21.345  1509  1509 D SmartspaceInteractor: notifySmartspaceEvent: SmartspaceTargetEvent{mSmartspaceTarget=null, mSmartspaceActionId='null', mEventType=6}
+10-06 22:49:21.357  1509  1509 I Surface : Creating surface for consumer unnamed-1509-154 with slotExpansion=1 for 64 slots
+10-06 22:49:21.357  1844  2049 I AiAiEcho: Predicting[0]:  [CONTEXT sampling_count=5 ]
+10-06 22:49:21.358  1844  2049 I AiAiEcho: EchoTargets: 
+10-06 22:49:21.358  1844  2049 I AiAiEcho: Filtered by AiAi flag check: 
+10-06 22:49:21.358  1844  2049 I AiAiEcho: [CONTEXT ratelimit_period="10 SECONDS" ]
+10-06 22:49:21.358  1509  1509 I Surface : Creating surface for consumer VRI[NexusLauncherActivity]#44(BLAST Consumer)44 with slotExpansion=1 for 64 slots
+10-06 22:49:21.372  9612  9734 D WallpaperService: onVisibilityChanged(true): com.android.systemui.wallpapers.ImageWallpaper$CanvasEngine@b07662d
+10-06 22:49:21.373  1844  2049 I AiAiEcho: #remoteViewsTwiddler: feature disabled.
+10-06 22:49:21.378  1844  2049 I AiAiEcho: #postPredictionTargets: Sending updates to UISurface home with targets# 0 (types=[])
+10-06 22:49:21.384  1509  1509 D BaseDepthController: setSurface:
+10-06 22:49:21.384  1509  1509 D BaseDepthController: 	mWaitingOnSurfaceValidity: false
+10-06 22:49:21.384  1509  1509 D BaseDepthController: 	mBaseSurface: Surface(name=VRI-com.google.android.apps.nexuslauncher/com.google.android.apps.nexuslauncher.NexusLauncherActivity#1376)/@0x7f50314
+10-06 22:49:21.384  1509  1509 V BaseDepthController: Applying blur: 0 to Surface(name=VRI-com.google.android.apps.nexuslauncher/com.google.android.apps.nexuslauncher.NexusLauncherActivity#1376)/@0x7f50314 applyImmediately: false
+10-06 22:49:21.385  1509  1509 D BaseDepthController: shouldBlurWorkspace: false targetState: Normal currentStableState: Normal mCurrentBlur: 0 mLauncher.getDepthBlurTargets(): [com.android.launcher3.Workspace{32a2704 V.ED..... .......D 0,0-1080,2400 #7f0a0486 app:id/workspace}, com.android.launcher3.Hotseat{6afe4a5 V.ED..... .......D 0,1905-1080,2400 #7f0a01f6 app:id/hotseat}]
+10-06 22:49:21.418  1509  1509 D RecentTasksList: invalidateLoadedTasks - previous requestLoadId: -1
+10-06 22:49:21.426  1509  1509 D ShortcutAndWidgetContainer: appWidgetScale - [x,y]: [1.0,1.0]
+10-06 22:49:21.426  1509  1509 D NavigableAppWidgetHostView: updateScale - [fitScale,bounceScale]: [1.0,1.0]
+10-06 22:49:21.427  1509  1509 D SsBaseTemplateCard: Passed-in item info is null
+10-06 22:49:21.428  1509  1509 D SsBaseTemplateCard: Passed-in item info is null
+10-06 22:49:21.428  1509  1509 D SsBaseTemplateCard: Passed-in item info is null
+10-06 22:49:21.428  1509  1509 D SsBaseTemplateCard: Passed-in item info is null
+10-06 22:49:21.429  1509  1509 I SsBaseTemplateCard: Secondary card pane is null
+10-06 22:49:21.460   562   591 W skia    : AGTM parsing failed flags.readFromStream(s) at 159
+10-06 22:49:21.460   562   591 W skia    : AGTM parsing failed flags.readFromStream(s) at 159
+10-06 22:49:21.495 10015 10015 D VRI[MainActivity]: visibilityChanged oldVisibility=true newVisibility=false
+10-06 22:49:21.502   562   591 W skia    : AGTM parsing failed flags.readFromStream(s) at 159
+10-06 22:49:21.502   562   591 W skia    : AGTM parsing failed flags.readFromStream(s) at 159
+10-06 22:49:21.508  1509  1509 D LauncherStateManager: StateManager.cancelAnimation: animation ongoing: false, partial trace:
+10-06 22:49:21.508  1509  1509 D LauncherStateManager: 	at com.android.launcher3.statemanager.StateManager.setCurrentAnimation(go/retraceme 9bf9d747b28c192bd799fb0161a08498ac2b938f666e7966c0095b4da2c9b843:59)
+10-06 22:49:21.508  1509  1509 D LauncherStateManager: 	at com.android.launcher3.QuickstepTransitionManager.createWallpaperOpenAnimations(go/retraceme 9bf9d747b28c192bd799fb0161a08498ac2b938f666e7966c0095b4da2c9b843:712)
+10-06 22:49:21.508  1509  1509 D LauncherStateManager: 	at com.android.launcher3.QuickstepTransitionManager$WallpaperOpenLauncherAnimationRunner.onAnimationStart(go/retraceme 9bf9d747b28c192bd799fb0161a08498ac2b938f666e7966c0095b4da2c9b843:135)
+10-06 22:49:21.508  1509  1509 D LauncherStateManager: StateManager.createAtomicAnimation: fromState: Normal, toState: Normal, partial trace:
+10-06 22:49:21.508  1509  1509 D LauncherStateManager: 	at com.android.quickstep.util.WorkspaceRevealAnim.prepareToAnimate(go/retraceme 9bf9d747b28c192bd799fb0161a08498ac2b938f666e7966c0095b4da2c9b843:19)
+10-06 22:49:21.508  1509  1509 D LauncherStateManager: 	at com.android.quickstep.util.WorkspaceRevealAnim.<init>(go/retraceme 9bf9d747b28c192bd799fb0161a08498ac2b938f666e7966c0095b4da2c9b843:10)
+10-06 22:49:21.508  1509  1509 D LauncherStateManager: 	at com.android.launcher3.QuickstepTransitionManager.createWallpaperOpenAnimations(go/retraceme 9bf9d747b28c192bd799fb0161a08498ac2b938f666e7966c0095b4da2c9b843:753)
+10-06 22:49:21.509  1509  1509 D AllAppsTransitionController: shouldProtectHeader: false skipScrim: true state: Normal stateManager.getState(): Normal
+10-06 22:49:21.510  1509  1509 D KeyboardInsetsHandler: removePendingImeController: pendingImeController=null
+10-06 22:49:21.511  1509  1509 D b/311077782: LauncherAnimationRunner.setAnimation
+10-06 22:49:21.513  1509  1561 D PreloadThumbnailUseCase: Preloading thumbnails for task ids: [[id=83 windowingMode=1 user=0 lastActiveTime=20926360] null, [id=84 windowingMode=1 user=0 lastActiveTime=20926527] null]
+10-06 22:49:21.552  1509  1509 D RecentTasksList: invalidateLoadedTasks - previous requestLoadId: -1
+10-06 22:49:21.577  1509  1509 D BaseActivity: Launcher flags updated: [state_started|state_resumed|state_deferred_resumed|state_window_focused|state_user_active] +[state_window_focused]
+10-06 22:49:21.580 10015 10015 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): android.app.Activity$$ExternalSyntheticLambda0@3cd3543
+10-06 22:49:21.581  1509  1513 I s.nexuslauncher: NativeAlloc concurrent mark compact GC freed 785KB AllocSpace bytes, 4(208KB) LOS objects, 49% free, 5969KB/11MB, paused 15.272ms,9.415ms total 252.495ms
+10-06 22:49:21.582 10015 10015 D LifecycleMonitor: Lifecycle status change: edu.ucsc.cse118.assignment2.MainActivity@4a87ca5 in: STOPPED
+10-06 22:49:21.582 10015 10015 V ActivityScenario: Update currentActivityStage to STOPPED, currentActivity=edu.ucsc.cse118.assignment2.MainActivity@4a87ca5
+10-06 22:49:21.585 10015 10015 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): null
+10-06 22:49:21.630   701   838 W InputChannel-JNI: Channel already disposed.
+10-06 22:49:21.637   562   591 W skia    : AGTM parsing failed flags.readFromStream(s) at 159
+10-06 22:49:21.638   562   591 W skia    : AGTM parsing failed flags.readFromStream(s) at 159
+10-06 22:49:21.643  6965  6965 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():2259 
+10-06 22:49:21.664  6965  6965 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():103 repeatCheckTimes = 0, locked = false
+10-06 22:49:21.665  6965  6965 W NotificationCenter: NotificationCenter$NotificationQueue.notifyPendingNotificationsOnExecutor():877 Heavy notify work detected on UI thread: [nky->njz, nky->lcs, nky->kzx, nky->pdq, nky->kzx, nky->kzx, nky->gsc, nky->kzx, nky->kzx, nky->gva, nky->kzx, nky->kzx, nky->mju, nky->kzx, nky->psy, nky->njq, nky->kzx, nky->huf, nky->kzx, nky->kzx, nky->kzx, nky->kxf, nky->kzx, nky->eqa] takes 21ms
+10-06 22:49:21.669  6965  6965 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1446 onStartInput(EditorInfo{EditorInfo{packageName=com.google.android.apps.nexuslauncher, inputType=0, inputTypeString=NULL, enableLearning=false, autoCorrection=false, autoComplete=false, imeOptions=0, privateImeOptions=null, actionName=UNSPECIFIED, actionLabel=null, initialSelStart=-1, initialSelEnd=-1, initialCapsMode=0, label=null, fieldId=0, fieldName=null, extras=null, hintText=null, hintLocales=[]}}, false)
+10-06 22:49:21.683  6965  6965 W AndroidIME: LatinIMEBase.updateInputViewCoverNavigation():327 Null input view, cannot update padding!
+10-06 22:49:21.687  6965  6965 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():103 repeatCheckTimes = 1, locked = false
+10-06 22:49:21.699 10015 10015 D LifecycleMonitor: Lifecycle status change: edu.ucsc.cse118.assignment2.MainActivity@4a87ca5 in: DESTROYED
+10-06 22:49:21.699 10015 10015 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+10-06 22:49:21.701 10015 10031 I TestRunner: finished: visible_message_detail_date(edu.ucsc.cse118.assignment2.AdvancedInstrumentedTest)

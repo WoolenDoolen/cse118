@@ -1,0 +1,8 @@
+edu.ucsc.cse118.assignment2.app-pngs-0 C:\Users\joust\OneDrive\Desktop\Code\cmpm 118\ass2\app\build\generated\res\pngs\debug
+edu.ucsc.cse118.assignment2.app-updated_navigation_xml-1 C:\Users\joust\OneDrive\Desktop\Code\cmpm 118\ass2\app\build\generated\updated_navigation_xml\debug
+edu.ucsc.cse118.assignment2.app-packageDebugResources-2 C:\Users\joust\OneDrive\Desktop\Code\cmpm 118\ass2\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+edu.ucsc.cse118.assignment2.app-packageDebugResources-3 C:\Users\joust\OneDrive\Desktop\Code\cmpm 118\ass2\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+edu.ucsc.cse118.assignment2.app-debug-4 C:\Users\joust\OneDrive\Desktop\Code\cmpm 118\ass2\app\build\intermediates\merged_res\debug\mergeDebugResources
+edu.ucsc.cse118.assignment2.app-debug-5 C:\Users\joust\OneDrive\Desktop\Code\cmpm 118\ass2\app\src\debug\res
+edu.ucsc.cse118.assignment2.app-main-6 C:\Users\joust\OneDrive\Desktop\Code\cmpm 118\ass2\app\src\main\res
+gradleHome-0 C:\Users\joust\.gradle

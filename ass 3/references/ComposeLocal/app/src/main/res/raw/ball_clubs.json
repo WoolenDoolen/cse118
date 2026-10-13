@@ -1,0 +1,302 @@
+[
+  {
+    "name": "Arizona Diamondbacks",
+    "code": "ARI",
+    "stadium": {
+      "name": "Chase Field",
+      "location": "Phoenix, Arizona",
+      "capacity": 48686,
+      "built": 1998
+    }
+  },
+  {
+    "name": "Atlanta Braves",
+    "code": "ATL",
+    "stadium": {
+      "name": "SunTrust Park",
+      "location": "Cumberland, Georgia",
+      "capacity": 41084,
+      "built": 2017
+    }
+  },
+  {
+    "name": "Baltimore Orioles",
+    "code": "BAL",
+    "stadium": {
+      "name": "Oriole Park at Camden Yards",
+      "location": "Baltimore, Maryland",
+      "capacity": 45971,
+      "built": 1992
+    }
+  },
+  {
+    "name": "Boston Red Sox",
+    "code": "BOS",
+    "stadium": {
+      "name": "Fenway Park",
+      "location": "Boston, Massachusetts",
+      "capacity": 37755,
+      "built": 1912
+    }
+  },
+  {
+    "name": "Chicago Cubs",
+    "code": "CHC",
+    "stadium": {
+      "name": "Wrigley Field",
+      "location": "Chicago, Illinois",
+      "capacity": 41649,
+      "built": 1914
+    }
+  },
+  {
+    "name": "Chicago White Sox",
+    "code": "CWS",
+    "stadium": {
+      "name": "Guaranteed Rate Field",
+      "location": "Chicago, Illinois",
+      "capacity": 40615,
+      "built": 1991
+    }
+  },
+  {
+    "name": "Cincinnati Reds",
+    "code": "CIN",
+    "stadium": {
+      "name": "Great American Ball Park",
+      "location": "Cincinnati, Ohio",
+      "capacity": 42319,
+      "built": 2003
+    }
+  },
+  {
+    "name": "Cleveland Guardians",
+    "code": "CLE",
+    "stadium": {
+      "name": "Progressive Field",
+      "location": "Cleveland, Ohio",
+      "capacity": 34788,
+      "built": 1994
+    }
+  },
+  {
+    "name": "Colorado Rockies",
+    "code": "COL",
+    "stadium": {
+      "name": "Coors Field",
+      "location": "Denver, Colorado",
+      "capacity": 50445,
+      "built": 1995
+    }
+  },
+  {
+    "name": "Detroit Tigers",
+    "code": "DET",
+    "stadium": {
+      "name": "Comerica Park",
+      "location": "Detroit, Michigan",
+      "capacity": 41083,
+      "built": 2000
+    }
+  },
+  {
+    "name": "Houston Astros",
+    "code": "HOU",
+    "stadium": {
+      "name": "Minute Maid Park",
+      "location": "Houston, Texas",
+      "capacity": 41168,
+      "built": 2000
+    }
+  },
+  {
+    "name": "Kansas City Royals",
+    "code": "KC",
+    "stadium": {
+      "name": "Kauffman Stadium",
+      "location": "Kansas City, Missouri",
+      "capacity": 37903,
+      "built": 1973
+    }
+  },
+  {
+    "name": "Los Angeles Angels",
+    "code": "LAA",
+    "stadium": {
+      "name": "Angel Stadium",
+      "location": "Los Angeles, California",
+      "capacity": 45517,
+      "built": 1966
+    }
+  },
+  {
+    "name": "Los Angeles Dodgers",
+    "code": "LAD",
+    "stadium": {
+      "name": "Dodger Stadium",
+      "location": "Los Angeles, California",
+      "capacity": 56000,
+      "built": 1962
+    }
+  },
+  {
+    "name": "Miami Marlins",
+    "code": "MIA",
+    "stadium": {
+      "name": "Marlins Park",
+      "location": "Miami, Florida",
+      "capacity": 36742,
+      "built": 2012
+    }
+  },
+  {
+    "name": "Milwaukee Brewers",
+    "code": "MIL",
+    "stadium": {
+      "name": "Miller Park",
+      "location": "Milwaukee, Wisconsin",
+      "capacity": 41900,
+      "built": 2001
+    }
+  },
+  {
+    "name": "Minnesota Twins",
+    "code": "MIN",
+    "stadium": {
+      "name": "Target Field",
+      "location": "Minneapolis, Minnesota",
+      "capacity": 38544,
+      "built": 2010
+    }
+  },
+  {
+    "name": "New York Mets",
+    "code": "NYM",
+    "stadium": {
+      "name": "Citi Field",
+      "location": "Queens, New York",
+      "capacity": 41922,
+      "built": 2009
+    }
+  },
+  {
+    "name": "New York Yankees",
+    "code": "NYY",
+    "stadium": {
+      "name": "Yankee Stadium",
+      "location": "Bronx, New York",
+      "capacity": 47309,
+      "built": 2009
+    }
+  },
+  {
+    "name": "Oakland Athletics",
+    "code": "OAK",
+    "stadium": {
+      "name": "RingCentral Coliseum",
+      "location": "Oakland, California",
+      "capacity": 46847,
+      "built": 1966
+    }
+  },
+  {
+    "name": "Philadelphia Phillies",
+    "code": "PHI",
+    "stadium": {
+      "name": "Citizens Bank Park",
+      "location": "Philadelphia, Pennsylvania",
+      "capacity": 42792,
+      "built": 2004
+    }
+  },
+  {
+    "name": "Pittsburgh Pirates",
+    "code": "PIT",
+    "stadium": {
+      "name": "PNC Park",
+      "location": "Pittsburgh, Pennsylvania",
+      "capacity": 38747,
+      "built": 2001
+    }
+  },
+  {
+    "name": "San Diego Padres",
+    "code": "SD",
+    "stadium": {
+      "name": "Petco Park",
+      "location": "San Diego, California",
+      "capacity": 40209,
+      "built": 2004
+    }
+  },
+  {
+    "name": "San Francisco Giants",
+    "code": "SF",
+    "stadium": {
+      "name": "Oracle Park",
+      "location": "San Francisco, California",
+      "capacity": 41915,
+      "built": 2000
+    }
+  },
+  {
+    "name": "Seattle Mariners",
+    "code": "SEA",
+    "stadium": {
+      "name": "T-Mobile Park",
+      "location": "Seattle, Washington",
+      "capacity": 47929,
+      "built": 1999
+    }
+  },
+  {
+    "name": "St. Louis Cardinals",
+    "code": "STL",
+    "stadium": {
+      "name": "Busch Stadium",
+      "location": "St. Louis, Missouri",
+      "capacity": 45494,
+      "built": 2006
+    }
+  },
+  {
+    "name": "Tampa Bay Rays",
+    "code": "TB",
+    "stadium": {
+      "name": "Tropicana Field",
+      "location": "St. Petersburg, Florida",
+      "capacity": 25000,
+      "built": 1990
+    }
+  },
+  {
+    "name": "Texas Rangers",
+    "code": "TEX",
+    "stadium": {
+      "name": "Globe Life Field",
+      "location": "Arlington, Texas",
+      "capacity": 40300,
+      "built": 2020
+    }
+  },
+  {
+    "name": "Toronto Blue Jays",
+    "code": "TOR",
+    "stadium": {
+      "name": "Rogers Centre",
+      "location": "Toronto, Ontario",
+      "capacity": 49282,
+      "built": 1989
+    }
+  },
+  {
+    "name": "Washington Nationals",
+    "code": "WSH",
+    "stadium": {
+      "name": "Nationals Park",
+      "location": "Washington, D.C.",
+      "capacity": 41339,
+      "built": 2008
+    }
+  }
+]

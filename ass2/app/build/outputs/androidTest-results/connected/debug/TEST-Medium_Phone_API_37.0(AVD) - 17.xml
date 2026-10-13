@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuites tests="26" failures="0" errors="0" skipped="0" time="0.000" timestamp="2026-10-07T05:49:54" hostname="localhost">
+  <testsuite name="edu.ucsc.cse118.assignment2.AdvancedInstrumentedTest" tests="17" failures="0" errors="0" skipped="0" time="43.448" timestamp="2026-10-07T05:49:54" hostname="localhost">
+    <properties>
+      <property name="device" value="emulator-5554" />
+    </properties>
+    <testcase name="invisible_message_detail_date" classname="edu.ucsc.cse118.assignment2.AdvancedInstrumentedTest" time="3.985" />
+    <testcase name="invisible_message_detail_name" classname="edu.ucsc.cse118.assignment2.AdvancedInstrumentedTest" time="2.801" />
+    <testcase name="invisible_message_date" classname="edu.ucsc.cse118.assignment2.AdvancedInstrumentedTest" time="3.284" />
+    <testcase name="visible_message" classname="edu.ucsc.cse118.assignment2.AdvancedInstrumentedTest" time="2.354" />
+    <testcase name="invisible_message" classname="edu.ucsc.cse118.assignment2.AdvancedInstrumentedTest" time="2.540" />
+    <testcase name="invisible_message_detail_content" classname="edu.ucsc.cse118.assignment2.AdvancedInstrumentedTest" time="2.912" />
+    <testcase name="channel_one" classname="edu.ucsc.cse118.assignment2.AdvancedInstrumentedTest" time="1.955" />
+    <testcase name="channel_two" classname="edu.ucsc.cse118.assignment2.AdvancedInstrumentedTest" time="2.074" />
+    <testcase name="visible_message_detail_content" classname="edu.ucsc.cse118.assignment2.AdvancedInstrumentedTest" time="2.732" />
+    <testcase name="visible_message_detail_date" classname="edu.ucsc.cse118.assignment2.AdvancedInstrumentedTest" time="2.850" />
+    <testcase name="visible_message_detail_name" classname="edu.ucsc.cse118.assignment2.AdvancedInstrumentedTest" time="2.836" />
+    <testcase name="visible_message_date" classname="edu.ucsc.cse118.assignment2.AdvancedInstrumentedTest" time="2.386" />
+    <testcase name="message_count_three" classname="edu.ucsc.cse118.assignment2.AdvancedInstrumentedTest" time="2.057" />
+    <testcase name="invisible_message_not_shown" classname="edu.ucsc.cse118.assignment2.AdvancedInstrumentedTest" time="2.503" />
+    <testcase name="message_count_one" classname="edu.ucsc.cse118.assignment2.AdvancedInstrumentedTest" time="1.950" />
+    <testcase name="message_count_two" classname="edu.ucsc.cse118.assignment2.AdvancedInstrumentedTest" time="2.065" />
+    <testcase name="channel_three" classname="edu.ucsc.cse118.assignment2.AdvancedInstrumentedTest" time="2.164" />
+  </testsuite>
+  <testsuite name="edu.ucsc.cse118.assignment2.BasicInstrumentedTest" tests="9" failures="0" errors="0" skipped="0" time="14.685" timestamp="2026-10-07T05:49:54" hostname="localhost">
+    <properties>
+      <property name="device" value="emulator-5554" />
+    </properties>
+    <testcase name="channel_count_three" classname="edu.ucsc.cse118.assignment2.BasicInstrumentedTest" time="1.662" />
+    <testcase name="workspace_three" classname="edu.ucsc.cse118.assignment2.BasicInstrumentedTest" time="1.677" />
+    <testcase name="initial_login" classname="edu.ucsc.cse118.assignment2.BasicInstrumentedTest" time="1.280" />
+    <testcase name="initial_title" classname="edu.ucsc.cse118.assignment2.BasicInstrumentedTest" time="1.321" />
+    <testcase name="initial_login_clickable" classname="edu.ucsc.cse118.assignment2.BasicInstrumentedTest" time="1.681" />
+    <testcase name="channel_count_one" classname="edu.ucsc.cse118.assignment2.BasicInstrumentedTest" time="1.763" />
+    <testcase name="channel_count_two" classname="edu.ucsc.cse118.assignment2.BasicInstrumentedTest" time="1.672" />
+    <testcase name="workspace_one" classname="edu.ucsc.cse118.assignment2.BasicInstrumentedTest" time="1.940" />
+    <testcase name="workspace_two" classname="edu.ucsc.cse118.assignment2.BasicInstrumentedTest" time="1.689" />
+  </testsuite>
+</testsuites>

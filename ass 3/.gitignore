@@ -1,0 +1,9 @@
+.gradle/
+.gradle-user/
+.kotlin/
+.idea/
+**/build/
+local.properties
+test-credentials.properties
+tmp/
+*.iml

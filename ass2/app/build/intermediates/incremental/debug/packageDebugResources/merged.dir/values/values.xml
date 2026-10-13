@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <dimen name="image_size">300dp</dimen>
+    <dimen name="logo_width">250dp</dimen>
+    <dimen name="margin_between_elements">8dp</dimen>
+    <dimen name="side_margin">0dp</dimen>
+    <string name="app_name">CSE118 Assignment 2</string>
+    <string name="back">Back</string>
+    <string name="channel_count">%1$d Channels</string>
+    <string name="login">Login</string>
+    <string name="message_count">%1$d Messages</string>
+    <string name="password">Password</string>
+    <string name="select_channel">Channels</string>
+    <string name="select_detail">Detail</string>
+    <string name="select_message">Messages</string>
+    <string name="select_workspace">Workspaces</string>
+    <string name="slug_logo">UCSC Banana Slug logo</string>
+    <string name="username">Username</string>
+    <style name="Base.Theme.Assignment1" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowBackground">@android:color/white</item>
+        <item name="colorPrimary">@android:color/black</item>
+        <item name="colorPrimaryDark">@android:color/black</item>
+        <item name="colorAccent">@android:color/black</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowLightNavigationBar">true</item>
+    </style>
+    <style name="Theme.Assignment1" parent="Base.Theme.Assignment1"/>
+</resources>

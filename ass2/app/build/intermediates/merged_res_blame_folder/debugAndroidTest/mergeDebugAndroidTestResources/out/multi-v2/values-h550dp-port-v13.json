@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "edu.ucsc.cse118.assignment2.test.app-mergeDebugAndroidTestResources-37:/values-h550dp-port-v13/values-h550dp-port-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\joust\\.gradle\\caches\\9.7.1\\transforms\\e05eabab91364b6209c2aae70e8e70d3\\transformed\\material-1.14.0\\res\\values-h550dp-port-v13\\values-h550dp-port-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "64",
+                        "endOffsets": "115"
+                    }
+                }
+            ]
+        }
+    ]
+}

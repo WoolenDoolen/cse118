@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="CalendarArrayTest" time="0.356" tests="7" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="17"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Users\joust\OneDrive\Desktop\Code\cmpm 118\assignment 1\target\test-classes;C:\Users\joust\OneDrive\Desktop\Code\cmpm 118\assignment 1\target\classes;C:\Users\joust\AppData\Local\Temp\cse118-build-tools\repository\org\jetbrains\kotlin\kotlin-test-junit5\1.7.10\kotlin-test-junit5-1.7.10.jar;C:\Users\joust\AppData\Local\Temp\cse118-build-tools\repository\org\jetbrains\kotlin\kotlin-test\1.7.10\kotlin-test-1.7.10.jar;C:\Users\joust\AppData\Local\Temp\cse118-build-tools\repository\org\junit\jupiter\junit-jupiter-api\5.6.0\junit-jupiter-api-5.6.0.jar;C:\Users\joust\AppData\Local\Temp\cse118-build-tools\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar;C:\Users\joust\AppData\Local\Temp\cse118-build-tools\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\joust\AppData\Local\Temp\cse118-build-tools\repository\org\junit\platform\junit-platform-commons\1.6.0\junit-platform-commons-1.6.0.jar;C:\Users\joust\AppData\Local\Temp\cse118-build-tools\repository\org\junit\jupiter\junit-jupiter-engine\5.6.0\junit-jupiter-engine-5.6.0.jar;C:\Users\joust\AppData\Local\Temp\cse118-build-tools\repository\org\junit\platform\junit-platform-engine\1.6.0\junit-platform-engine-1.6.0.jar;C:\Users\joust\AppData\Local\Temp\cse118-build-tools\repository\org\junit\jupiter\junit-jupiter\5.8.2\junit-jupiter-5.8.2.jar;C:\Users\joust\AppData\Local\Temp\cse118-build-tools\repository\org\junit\jupiter\junit-jupiter-params\5.8.2\junit-jupiter-params-5.8.2.jar;C:\Users\joust\AppData\Local\Temp\cse118-build-tools\repository\org\jetbrains\kotlin\kotlin-stdlib-jdk8\1.7.10\kotlin-stdlib-jdk8-1.7.10.jar;C:\Users\joust\AppData\Local\Temp\cse118-build-tools\repository\org\jetbrains\kotlin\kotlin-stdlib\1.7.10\kotlin-stdlib-1.7.10.jar;C:\Users\joust\AppData\Local\Temp\cse118-build-tools\repository\org\jetbrains\kotlin\kotlin-stdlib-common\1.7.10\kotlin-stdlib-common-1.7.10.jar;C:\Users\joust\AppData\Local\Temp\cse118-build-tools\repository\org\jetbrains\annotations\13.0\annotations-13.0.jar;C:\Users\joust\AppData\Local\Temp\cse118-build-tools\repository\org\jetbrains\kotlin\kotlin-stdlib-jdk7\1.7.10\kotlin-stdlib-jdk7-1.7.10.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="user.timezone" value="America/Los_Angeles"/>
+    <property name="user.country.format" value="001"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="java.vm.specification.version" value="17"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-17\bin"/>
+    <property name="sun.java.command" value="C:\Users\joust\AppData\Local\Temp\surefire5828581241828367082\surefirebooter16293605233938849605.jar C:\Users\joust\AppData\Local\Temp\surefire5828581241828367082 2026-09-30T16-17-17_550-jvmRun1 surefire599688167482225591tmp surefire_014398363235702675291tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="C:\Users\joust\OneDrive\Desktop\Code\cmpm 118\assignment 1\target\test-classes;C:\Users\joust\OneDrive\Desktop\Code\cmpm 118\assignment 1\target\classes;C:\Users\joust\AppData\Local\Temp\cse118-build-tools\repository\org\jetbrains\kotlin\kotlin-test-junit5\1.7.10\kotlin-test-junit5-1.7.10.jar;C:\Users\joust\AppData\Local\Temp\cse118-build-tools\repository\org\jetbrains\kotlin\kotlin-test\1.7.10\kotlin-test-1.7.10.jar;C:\Users\joust\AppData\Local\Temp\cse118-build-tools\repository\org\junit\jupiter\junit-jupiter-api\5.6.0\junit-jupiter-api-5.6.0.jar;C:\Users\joust\AppData\Local\Temp\cse118-build-tools\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar;C:\Users\joust\AppData\Local\Temp\cse118-build-tools\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\joust\AppData\Local\Temp\cse118-build-tools\repository\org\junit\platform\junit-platform-commons\1.6.0\junit-platform-commons-1.6.0.jar;C:\Users\joust\AppData\Local\Temp\cse118-build-tools\repository\org\junit\jupiter\junit-jupiter-engine\5.6.0\junit-jupiter-engine-5.6.0.jar;C:\Users\joust\AppData\Local\Temp\cse118-build-tools\repository\org\junit\platform\junit-platform-engine\1.6.0\junit-platform-engine-1.6.0.jar;C:\Users\joust\AppData\Local\Temp\cse118-build-tools\repository\org\junit\jupiter\junit-jupiter\5.8.2\junit-jupiter-5.8.2.jar;C:\Users\joust\AppData\Local\Temp\cse118-build-tools\repository\org\junit\jupiter\junit-jupiter-params\5.8.2\junit-jupiter-params-5.8.2.jar;C:\Users\joust\AppData\Local\Temp\cse118-build-tools\repository\org\jetbrains\kotlin\kotlin-stdlib-jdk8\1.7.10\kotlin-stdlib-jdk8-1.7.10.jar;C:\Users\joust\AppData\Local\Temp\cse118-build-tools\repository\org\jetbrains\kotlin\kotlin-stdlib\1.7.10\kotlin-stdlib-1.7.10.jar;C:\Users\joust\AppData\Local\Temp\cse118-build-tools\repository\org\jetbrains\kotlin\kotlin-stdlib-common\1.7.10\kotlin-stdlib-common-1.7.10.jar;C:\Users\joust\AppData\Local\Temp\cse118-build-tools\repository\org\jetbrains\annotations\13.0\annotations-13.0.jar;C:\Users\joust\AppData\Local\Temp\cse118-build-tools\repository\org\jetbrains\kotlin\kotlin-stdlib-jdk7\1.7.10\kotlin-stdlib-jdk7-1.7.10.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\joust"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2023-10-17"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-17"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\Users\joust\OneDrive\Desktop\Code\cmpm 118\assignment 1"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\joust\AppData\Local\Temp\surefire5828581241828367082\surefirebooter16293605233938849605.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="17.0.9+11-LTS-201"/>
+    <property name="user.name" value="david"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\joust\AppData\Local\Temp\cse118-build-tools\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\joust\AppData\Local\Temp\"/>
+    <property name="java.version" value="17.0.9"/>
+    <property name="user.dir" value="C:\Users\joust\OneDrive\Desktop\Code\cmpm 118\assignment 1"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="native.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-17\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Users\joust\.sbx-denybin;C:\Users\joust\.codex\tmp\arg0\codex-arg0EjnNCK;C:\Program Files\Oculus\Support\oculus-runtime;c:\program files\oculus\support\oculus-runtime;c:\program files\common files\oracle\java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;c:\program files (x86)\razer\chromabroadcast\bin;c:\program files\razer\chromabroadcast\bin;c:\windows\system32;c:\windows;c:\windows\system32\wbem;c:\windows\system32\windowspowershell\v1.0\;c:\windows\system32\openssh\;c:\program files\dotnet\;c:\users\joust\appdata\local\microsoft\windowsapps;c:\program files\git\cmd;c:\program files\nvidia corporation\nvidia app\nvdlisr;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Git\cmd;C:\Users\joust\AppData\Local\Programs\Python\Launcher\;C:\Users\joust\AppData\Local\Programs\Python\Python312;C:\Users\joust\AppData\Local\Microsoft\WindowsApps;C:\Users\joust\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\joust\AppData\Local\Programs\Python\Launcher;C:\Users\joust\AppData\Local\Microsoft\WinGet\Packages\Martchus.syncthingtray_Microsoft.Winget.Source_8wekyb3d8bbwe;C:\Users\joust\AppData\Local\GitHubDesktop\bin;C:\Users\joust\AppData\Local\Microsoft\WinGet\Links;C:\Users\joust\.dotnet\tools;C:\Users\joust\AppData\Local\Unity\bin;c:\Users\joust\.vscode\extensions\openai.chatgpt-26.917.62051-win32-x64\bin\windows-x86_64;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="17.0.9+11-LTS-201"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="maven.repo.local" value="C:\Users\joust\AppData\Local\Temp\cse118-build-tools\repository"/>
+    <property name="java.class.version" value="61.0"/>
+  </properties>
+  <testcase name="december continues into the next year$Assignmemt1" classname="CalendarArrayTest" time="0.324"/>
+  <testcase name="march includes the end of a non leap february$Assignmemt1" classname="CalendarArrayTest" time="0.001"/>
+  <testcase name="april matches the assignment example$Assignmemt1" classname="CalendarArrayTest" time="0.002"/>
+  <testcase name="a century divisible by 400 is a leap year$Assignmemt1" classname="CalendarArrayTest" time="0.001"/>
+  <testcase name="a month starting on sunday begins with day one$Assignmemt1" classname="CalendarArrayTest" time="0.001"/>
+  <testcase name="february has 29 days in a leap year$Assignmemt1" classname="CalendarArrayTest" time="0.001"/>
+  <testcase name="other centuries are not leap years$Assignmemt1" classname="CalendarArrayTest" time="0.002"/>
+</testsuite>

@@ -1,0 +1,22 @@
+[
+  {
+    "check": "Workspace with zero channels opens an empty list and returns correctly",
+    "passed": true
+  },
+  {
+    "check": "Channel with zero messages opens an empty list and returns correctly",
+    "passed": true
+  },
+  {
+    "check": "Toolbar back navigation returns through detail, messages, channels, workspaces, login",
+    "passed": true
+  },
+  {
+    "check": "Android system Back returns from detail to its channel",
+    "passed": true
+  },
+  {
+    "check": "Message selection and navigation survive screen rotation",
+    "passed": true
+  }
+]

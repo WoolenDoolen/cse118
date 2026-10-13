@@ -1,0 +1,18 @@
+-------------------------------------------------------------------------------
+Build Report - Content Size Statistics
+Serialized File count                      3
+Resource file count                        2
+Object count                             173
+Serialized Files                     111.8 kb	   3.3%
+Serialized Files Headers               7.1 kb	   0.2%
+Resource data (Texture,Audio...)       3.2 mb	  96.7%
+Total build size                       3.3 mb
+
+Largest Types:
+     2.7 mb	  81.5% Texture2D
+   512.2 kb	  15.3% Cubemap
+    81.4 kb	   2.4% Shader
+
+Largest Assets:
+   596.3 kb	  17.8% Resources/unity_builtin_extra
+-------------------------------------------------------------------------------

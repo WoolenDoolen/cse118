@@ -1,0 +1,5 @@
+edu.ucsc.cse118.assignment2.test.app-updated_navigation_xml-0 C:\Users\joust\OneDrive\Desktop\Code\cmpm 118\ass2\app\build\generated\updated_navigation_xml\debugAndroidTest
+edu.ucsc.cse118.assignment2.test.app-packageDebugAndroidTestResources-1 C:\Users\joust\OneDrive\Desktop\Code\cmpm 118\ass2\app\build\intermediates\incremental\debugAndroidTest\packageDebugAndroidTestResources\merged.dir
+edu.ucsc.cse118.assignment2.test.app-packageDebugAndroidTestResources-2 C:\Users\joust\OneDrive\Desktop\Code\cmpm 118\ass2\app\build\intermediates\incremental\debugAndroidTest\packageDebugAndroidTestResources\stripped.dir
+edu.ucsc.cse118.assignment2.test.app-debugAndroidTest-3 C:\Users\joust\OneDrive\Desktop\Code\cmpm 118\ass2\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
+gradleHome-0 C:\Users\joust\.gradle
